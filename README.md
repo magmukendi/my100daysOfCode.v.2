@@ -13,3 +13,4 @@ In this repository I document my journey for the 100 days of Coding challenge
 - I am at the last challenge about the OOP in JavaScript. If I finish this, I will get into functional programming, I hope it will be very resourcefull for my future projects.
 - I am also learning callbacks ( functions that are slipped or passed into another function to decide the invocation of that function.
 - First class functions are functions assigned to variable, passed as parameter of other function or returned from another function just like any other normal value. callbacks are also first class function.
+- Function tha take a function as a parameter or return a function as a return value is called higher order function.
