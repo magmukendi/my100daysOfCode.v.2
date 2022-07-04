@@ -5,7 +5,7 @@ In this repository I document my journey for the 100 days of Coding challenge
 
 ## Day 30/100 July 5th 2022
 
-- Hello this is mag
+- Imperative code. Instead of using for loop we can use map().
 
 ## Day 29/100 July 4th 2022
 - Today I am working on Immediately Invoked Function Expression (IIFE). 
