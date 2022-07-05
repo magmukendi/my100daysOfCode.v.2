@@ -7,6 +7,10 @@ In this repository I document my journey for the 100 days of Coding challenge
 
 - Imperative code. Instead of using for loop we can use map().
 - in functional programming changing  things is called mutation and the outcome is called side effect.
+- We use map() as a replacement of for loop or ForEach.
+- We use filter() to select specific element that meet a certain standard.
+- We use reduce() to compute the sum of elements.
+- We use sort()
 
 ## Day 29/100 July 4th 2022
 - Today I am working on Immediately Invoked Function Expression (IIFE). 
