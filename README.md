@@ -22,6 +22,8 @@ return title.split(/\W/).filter(item => item !== '').join('-')
  - We also learn how to use the "every" method. We use it to check if all the element of an array satisfy a condition in the callback function and return true or false.
  - We use some() to check if any of tghe element in an array satisfy a condition and return true or false.
 
+Also learned about currying an partial application
+
 ## Day 29/100 July 4th 2022
 - Today I am working on Immediately Invoked Function Expression (IIFE). 
 - At first I did not know that you can actually declare a function and call it on the spot, But thanks to this challenge from freeCodeCamo, I was able to learn that.  It is actually pretty easy  to understand.
