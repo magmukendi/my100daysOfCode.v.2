@@ -19,6 +19,8 @@ In  today's challenge we tried to convert a string into a url slug. With such a 
 title = title.toLowerCase()
 return title.split(/\W/).filter(item => item !== '').join('-')
 ```
+ - We also learn how to use the "every" method
+
 ## Day 29/100 July 4th 2022
 - Today I am working on Immediately Invoked Function Expression (IIFE). 
 - At first I did not know that you can actually declare a function and call it on the spot, But thanks to this challenge from freeCodeCamo, I was able to learn that.  It is actually pretty easy  to understand.
