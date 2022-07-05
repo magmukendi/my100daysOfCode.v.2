@@ -10,8 +10,15 @@ In this repository I document my journey for the 100 days of Coding challenge
 - We use map() as a replacement of for loop or ForEach.
 - We use filter() to select specific element that meet a certain standard.
 - We use reduce() to compute the sum of elements.
-- We use sort()
+- We use sort(). And we need to always remember callback functions comparedFunction while using sort() method.
+- We will use split() to  convert a string into an array
+- We will use join() to convert an array into a string.
 
+In  today's challenge we tried to convert a string into a url slug. With such a simple formula. 
+```function urlSlug(title) {
+title = title.toLowerCase()
+return title.split(/\W/).filter(item => item !== '').join('-')
+```
 ## Day 29/100 July 4th 2022
 - Today I am working on Immediately Invoked Function Expression (IIFE). 
 - At first I did not know that you can actually declare a function and call it on the spot, But thanks to this challenge from freeCodeCamo, I was able to learn that.  It is actually pretty easy  to understand.
