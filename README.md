@@ -1,5 +1,5 @@
 # my100daysOfCode
-In this repository I document my journey for the 100 days of Coding challenge
+<h2> In this repository I document my journey for the 100 days of Coding challenge</h2>
 
 
 
@@ -19,7 +19,8 @@ In  today's challenge we tried to convert a string into a url slug. With such a 
 title = title.toLowerCase()
 return title.split(/\W/).filter(item => item !== '').join('-')
 ```
- - We also learn how to use the "every" method
+ - We also learn how to use the "every" method. We use it to check if all the element of an array satisfy a condition in the callback function and return true or false.
+ - We use some() to check if any of tghe element in an array satisfy a condition and return true or false.
 
 ## Day 29/100 July 4th 2022
 - Today I am working on Immediately Invoked Function Expression (IIFE). 
