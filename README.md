@@ -29,7 +29,7 @@ Currying a function is useful if you cannot supply all arguments to a function a
 
 Partial application...DID NOT REALLY GRASP THIS CONCEPT
 
-~~~ Now I just started working on the Intermediate Algoruthm Scripting Challenge ~~~
+**Now I just started working on the Intermediate Algoruthm Scripting Challenge**
 
 ## Day 29/100 July 4th 2022
 - Today I am working on Immediately Invoked Function Expression (IIFE). 
