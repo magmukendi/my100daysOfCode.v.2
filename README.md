@@ -1,5 +1,5 @@
 # my100daysOfCode
-<h2> In this repository I document my journey for the 100 days of Coding challenge</h2>
+<h4> In this repository I document my journey for the 100 days of Coding challenge</h4>
 
 
 
@@ -22,8 +22,14 @@ return title.split(/\W/).filter(item => item !== '').join('-')
  - We also learn how to use the "every" method. We use it to check if all the element of an array satisfy a condition in the callback function and return true or false.
  - We use some() to check if any of tghe element in an array satisfy a condition and return true or false.
 
-Also learned about currying an partial application
+Also learned about currying an partial application.
 
+Arity of a function is the number of arguments it requires. Currying a function means we convert a function of N arity into N functions of arity 1. We restructures a function so it takes one argument.
+Currying a function is useful if you cannot supply all arguments to a function at one time. 
+
+Partial application...DID NOT REALLY GRASP THIS CONCEPT
+
+~~~Now I just started working on the Intermediate Algoruthm Scripting Challenge~~~
 ## Day 29/100 July 4th 2022
 - Today I am working on Immediately Invoked Function Expression (IIFE). 
 - At first I did not know that you can actually declare a function and call it on the spot, But thanks to this challenge from freeCodeCamo, I was able to learn that.  It is actually pretty easy  to understand.
