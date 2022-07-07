@@ -1,8 +1,17 @@
 # my100daysOfCode
 <h4> In this repository I document my journey for the 100 days of Coding challenge</h4>
 
+##Day 33/100 July 8th 2022
 
+Today I was working on a react projects. I learned conditional rendering using react. Event listener and side effect
 
+##Day 32/100 July 7th 2022
+
+More Data structure and algorithms in Javascript.
+- Today I learned about how to use map() for rendering elements such as list of products, list of posts and more.
+
+##Day 31/100 July 6th 2022
+Functional programming. How to name variables, what tyo do to keep the variable name up to the industry standard.
 ## Day 30/100 July 5th 2022
 
 - Imperative code. Instead of using for loop we can use map().
