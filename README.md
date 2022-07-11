@@ -11,8 +11,10 @@
 - Worked on a component that tells how many unread messages I have in case I have more that 0 unread messages. Change the word messages to message in case I have only one unread message. And display "You are all caught up in case I have 0 unread message. ***Conditional rendering***
 - I also started working on forms in React.
 - Worked on controlled component to manage use input in forms.
-- I also started working on lifecycle method (componentWillMount, componentDidMount, shouldComponentUpdate, componentDidUpdate.
-- Worked on a magic height ball project on react
+- I also started working on lifecycle method (componentWillMount, componentDidMount, shouldComponentUpdate, componentDidUpdate)
+- Worked on a magic height ball project on react.
+- Age verification system using thernary operator.
+- Rendering on the Server
 
 ## Day 35/100 July 10th 2022
 Today I did not code I spent most of the time reading, meeting and resting.
