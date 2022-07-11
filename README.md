@@ -5,6 +5,8 @@
 - Today I worked on boxes display on react. I built a component that check for check if a box is on or off. If it is off I added a toggle to toggle the box on. If it was on I added a toggle to toggle the box off.
 - I also worked on a component that shows joke. It displays a joke and when the user click a button it toggle the punchline on.
 - Worked on a component that tells how many unread messages I have in case I have more that 0 unread messages. Change the word messages to message in case I have only one unread message. And display "You are all caught up in case I have 0 unread message. ***Conditional rendering***
+- I also started working on forms in React.
+- Worked on controlled component to manage use input in forms.
 
 ## Day 35/100 July 10th 2022
 Today I did not code I spent most of the time reading, meeting and resting.
