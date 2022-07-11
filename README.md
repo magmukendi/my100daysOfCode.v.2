@@ -1,6 +1,14 @@
 # my100daysOfCode
 <h4> In this repository I document my journey for the 100 days of Coding challenge</h4>
+## Day 36/100 July 11th 2022:
 
+- Today I worked on boxes display on react. I built a component that check for check if a box is on or off. If it is off I added a toggle to toggle the box on. If it was on I added a toggle to toggle the box off.
+- I also worked on a component that shows joke. It displays a joke and when the user click a button it toggle the punchline on.
+
+## Day 35/100 July 10th 2022
+Today I did not code I spent most of the time reading, meeting and resting.
+## Day 34/100 JUly 9th 2022
+Today I worked on react project to creat a meme generator
 ## Day 33/100 July 8th 2022
 
 Today I was working on a react projects. I learned conditional rendering using react. Event listener and side effect.
