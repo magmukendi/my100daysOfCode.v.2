@@ -1,7 +1,10 @@
 # my100daysOfCode
 <h4> In this repository I document my journey for the 100 days of Coding challenge</h4>
 
+## Day 37/100 July 12th 2022:
+- Started working on API calls in React.
 
+- React cannot interact with local storage, API database interactions, subscriptions (web sockets), syncing different internal states,
 
 
 ## Day 36/100 July 11th 2022:
