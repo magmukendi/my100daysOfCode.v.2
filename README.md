@@ -2,7 +2,7 @@
 <h4> In this repository I document my journey for the 100 days of Coding challenge</h4>
 ## Day 38/100 July 13th 2022:
  - API Call
- - 
+ - worked on WEPO's price calculator web app
 ## Day 37/100 July 12th 2022:
 - Started working on API calls in React.
 
