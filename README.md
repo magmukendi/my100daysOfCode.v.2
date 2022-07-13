@@ -1,15 +1,21 @@
 # my100daysOfCode
 <h4> In this repository I document my journey for the 100 days of Coding challenge</h4>
 
+##Day 39/100 July 14th 2022:
+- Worked on a meme generator
+
+
 
 ## Day 38/100 July 13th 2022:
+ - dependency array
  - API Call
+  - worked on looping through API elements.
  - worked on WEPO's price calculator web app.
 
 
 
 ## Day 37/100 July 12th 2022:
-- Started working on API calls in React.
+- worked on side effect. The side effect check for any update in the component and then run the callback functions inside it.
 
 - React cannot interact with local storage, API database interactions, subscriptions (web sockets), syncing different internal states,
 
