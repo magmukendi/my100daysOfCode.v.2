@@ -1,6 +1,15 @@
 # my100daysOfCode
 <h4> In this repository I document my journey for the 100 days of Coding challenge</h4>
 
+
+## Day 40/100: july 15th 2022:
+ - Worked on useEffect cleanuo function
+ - Worked on the toggle dark mode / light mode
+ - working on the markdown editor on 
+ - how to use localStorage
+
+
+
 ## Day 39/100 July 14th 2022:
 - Worked on a meme Generator.
 - Intro to Redux.
