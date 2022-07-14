@@ -2,7 +2,9 @@
 <h4> In this repository I document my journey for the 100 days of Coding challenge</h4>
 
 ## Day 39/100 July 14th 2022:
-- Worked on a meme generator
+- Worked on a meme Generator.
+- Intro to Redux.
+- More Data Structures and Algorithms in JavaScript.
 
 
 
