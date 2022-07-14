@@ -3,11 +3,12 @@
 
 
 ## Day 40/100: july 15th 2022:
- - Worked on useEffect cleanuo function
+ - Worked on useEffect cleanup function
  - Worked on the toggle dark mode / light mode
  - working on the markdown editor on 
  - how to use localStorage
-
+ -  localStorage uses .getItem("key) to get the item stored in the local storage and use setItem("key", value) to save something in the memory.local storage contrary to the sessionStorage has no expiration time. But if you use it in a private or incognito mode the data are cleaned when the last tab is  closed. Also the value need to be stored in string, not array, object.
+ -  You can use JSON.stringify(value) to conver the value into string. And use JSON.parse(stringifiedValue) to convert it to its original type.
 
 
 ## Day 39/100 July 14th 2022:
