@@ -1,6 +1,10 @@
 # my100daysOfCode
 <h4> In this repository I document my journey for the 100 days of Coding challenge</h4>
 
+## Day 41/100:
+
+- worked on a email service as the project 3 of CS50 W for web development
+- watched interview questions
 
 ## Day 40/100: july 15th 2022:
  - Worked on useEffect cleanup function
