@@ -1,6 +1,13 @@
 # my100daysOfCode
 <h4> In this repository I document my journey for the 100 days of Coding challenge</h4>
 
+
+## Day 42/100 July 17th 2022:
+- today I worked on WEPO's landing page
+- I also workedon the Memory game. The user will flip a card and be able to compare two card.
+
+
+
 ## Day 41/100 July 16th 2022:
 
 - worked on a email service as the project 3 of CS50 W for web development
