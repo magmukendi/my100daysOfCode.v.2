@@ -13,7 +13,7 @@
    
  **Thoughts**: I think it is very important to start with the main feature of the platform. And then add additional features.
  
- **Link to work**: the code can be found at my project on (sandbox code)[https://codesandbox.io/live/1fa25d918e3] 
+ **Link to work**: the code can be found at my project on (Sandbox code)[https://codesandbox.io/live/1fa25d918e3]
 
 
 
