@@ -2,9 +2,16 @@
 <h4> In this repository I document my journey for the 100 days of Coding challenge</h4>
 
 
+## Day 43/100 July 18th 2022 (Monday):
+
+ **Today's Progress**:
+ **Thoughts**:
+ **Link to work**:
+
+
 ## Day 42/100 July 17th 2022:
-- today I worked on WEPO's landing page
-- I also workedon the Memory game. The user will flip a card and be able to compare two card.
+- today I worked on WEPO's landing page: I updated the nav bar and the footer component. The hero component is in progress.
+- I also worked on the Memory game. The user will flip a card and be able to compare two card.
 
 
 
