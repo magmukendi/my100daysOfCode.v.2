@@ -4,9 +4,18 @@
 
 ## Day 43/100 July 18th 2022 (Monday):
 
- **Today's Progress**:
- **Thoughts**:
- **Link to work**:
+ **Today's Progress**: I worked on the Tenzi game, I worked the game from the beginning till the end. I also learned how to use react-confetti, when the user has won the game.
+ After completing the project, here are some extra features, I can add to the game:
+   - Put real dots on the dices.
+   - track the number of rolls it took to win
+   - track the time it took to win.
+   - Save the time it took to win to local storage.
+   
+ **Thoughts**: I think it is very important to start with the main feature of the platform. And then add additional features.
+ 
+ **Link to work**: the code can be found at my project on (sandbox code)[https://codesandbox.io/live/1fa25d918e3] 
+
+
 
 
 ## Day 42/100 July 17th 2022:
