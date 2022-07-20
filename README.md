@@ -123,7 +123,14 @@ export default Tenzi;
 ## Day 45/100 July 20 2022:
 
 
-**Todaay's progress**: few days ago I started working on the email system, followigg CS50w's email system. And i think i was able to solve the first question. Which was about allowing the user to fill out an email and send it to the API using the post request.
+**Today's progress**: few days ago I started working on the email system, followigg CS50w's email system. And i think i was able to solve the first question. Which was about allowing the user to fill out an email and send it to the API using the post request.
+
+I also worked on reviewing my understanding of Redux. Redux will help us to store component states. 
+
+We can use `getState` to get the state stored in the redux store.
+I learn about the method createStore(). It take a reducer as a required argument.
+
+We also use Reduc to update the state. To do that we use actions, Redux actions are a js object that contains in fomrn
 
 **Thoughts**: I spent about 3 days figuring out how to do so that I am able to send a post request to the API. But I just noticed that, the biggest problem was not about the post request but the way I was trying to submit the form.
 
