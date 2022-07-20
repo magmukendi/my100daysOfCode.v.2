@@ -118,6 +118,33 @@ function Tenzi() {
 
 export default Tenzi;
 
+
+
+## Day 45/100 July 20 2022:
+
+
+**Todaay's progress**: few days ago I started working on the email system, followigg CS50w's email system. And i think i was able to solve the first question. Which was about allowing the user to fill out an email and send it to the API using the post request.
+
+**Thoughts**: I spent about 3 days figuring out how to do so that I am able to send a post request to the API. But I just noticed that, the biggest problem was not about the post request but the way I was trying to submit the form.
+
+
+I was using  `document.querySelector('#compose-send').onsubmit` and this was selecting the button and trying to submit. Which is a mistake. Instead i should have used `document.querySelector('form')onsubmit` in order to select the form and submit the form.
+
+***Link to work***: 
+the link to my work can be found (HERE)[https://github.com/LeGrandMAG/cs50w-mail]
+
+
+## Day 44/100 July 19th 2022:
+Worked on a wordle game:
+
+***Today's progress***: I finally finished Bob Ziroll React Course on Scrimba. I was just going over all the work I have done and also watch some interview questions and see if can handle them. The result is quite not bad at all. I think I can stand for few minutes during the interview.
+
+
+**Thoughts**: My thoughts are that even though it is taking me some time to figure out how to do things, I still manage to get it done and that is the most important thing.
+
+I would not be attaching anylink got my work today.
+
+
 ## Day 43/100 July 18th 2022 (Monday):
 
  **Today's Progress**: I worked on the Tenzi game, I worked the game from the beginning till the end. I also learned how to use react-confetti, when the user has won the game.
