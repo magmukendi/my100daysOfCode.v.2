@@ -131,7 +131,7 @@ export default Tenzi;
 I was using  `document.querySelector('#compose-send').onsubmit` and this was selecting the button and trying to submit. Which is a mistake. Instead i should have used `document.querySelector('form')onsubmit` in order to select the form and submit the form.
 
 ***Link to work***: 
-the link to my work can be found HERE[https://github.com/LeGrandMAG/cs50w-mail]
+the link to my work can be found [HERE](https://github.com/LeGrandMAG/cs50w-mail)
 
 
 ## Day 44/100 July 19th 2022:
@@ -156,7 +156,7 @@ I would not be attaching anylink got my work today.
    
  **Thoughts**: I think it is very important to start with the main feature of the platform. And then add additional features.
  
- **Link to work**: the code can be found at my project on (Sandbox code)[https://codesandbox.io/live/1fa25d918e3]
+ **Link to work**: the code can be found at my project on [Sandbox code](https://codesandbox.io/live/1fa25d918e3)
 
 
 
