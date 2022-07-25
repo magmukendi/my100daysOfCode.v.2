@@ -118,7 +118,13 @@ function Tenzi() {
 
 export default Tenzi;
 
+Day 49/100 July 24 2022:
+ - started working on a auctions website
+## Day 48/100 July 23 2022:
 
+## Day 47/100 July 22 2022:
+
+## Day 46/100 July 21 2022:
 
 ## Day 45/100 July 20 2022:
 
