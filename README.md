@@ -117,9 +117,30 @@ function Tenzi() {
 }
 
 export default Tenzi;
+## Day 52/100 July 27 2022:
+- worked on datas structures
 
-Day 49/100 July 24 2022:
- - started working on a auctions website
+
+## Day 51/100 July 26 2022:
+
+ **Today's Progress**:
+ - Worked on algorithms: Binary search and linear search
+ - Reviewed algorithm time complexity. How much time an algorithm takes to complete a t
+ - Space complexity: how much space the algoruthm takes in our memmory. Recursive binary search is O (log N). 
+ 
+ Need to look into Tail optimization for more details.
+ 
+ **Thoughts**:I came accross a great way to measure efficiency of things while coding or even in real life. We use the worst case scenario as a bench mark for our expectation. I think learning algorithm is very helpful for me.
+ 
+ 
+  **Link to work**:
+
+
+
+## Day 50/100 July 25 2022:
+
+## Day 49/100 July 24 2022:
+ - Started working on a auctions website
 ## Day 48/100 July 23 2022:
 
 ## Day 47/100 July 22 2022:
