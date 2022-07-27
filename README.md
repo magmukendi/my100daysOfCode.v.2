@@ -117,8 +117,17 @@ function Tenzi() {
 }
 
 export default Tenzi;
+
+
+## Day 53/100 July 28 2022:
+
 ## Day 52/100 July 27 2022:
-- worked on datas structures
+
+**Today's Progress**: To I specifically focused on the sorting algorithm. I learned about LinkedList and the merge sort algoroithm.
+
+**Thoughts**: I was thinking that Data structures and algorithms was super hard. But learning the Data structures, with good explanation I am able to understand very well.
+
+**Link to work**: my work can be foun at [this repo](https://github.com/LeGrandMAG/Data-Structures-and-Algorithm)
 
 
 ## Day 51/100 July 26 2022:
