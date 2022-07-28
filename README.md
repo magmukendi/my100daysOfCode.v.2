@@ -1,125 +1,65 @@
 # my100daysOfCode
 <h4> In this repository I document my journey for the 100 days of Coding challenge</h4>
 
-import { useState, useEffect } from "react";
-import { nanoid } from "nanoid";
-import Confetti from "react-confetti";
-function Dice(props) {
-  return (
-    <div
-      onClick={props.toggle}
-      style={{ backgroundColor: props.isHeld ? "#59E391" : "white" }}
-      className="die-face"
-    >
-      <h1 className="die-number">{props.value}</h1>
-    </div>
-  );
-}
-function Tenzi() {
-  const [dice, setDice] = useState(createRandNumber());
-  const [tenzies, setTenzies] = useState(false);
-  const [timer, setTimer] = useState(0);
-  const [timeDisplay, setTimeDisplay] = useState(true)
-  const [bestTime, setBestTime] = useState(JSON.parse(localStorage.getItem("bestTime")) || [])
 
-  useEffect(() => {
-    const allHeld = dice.every((die) => die.isHeld);
-    const firstValue = dice[0].value;
-    const allSameValue = dice.every((die) => die.value === firstValue);
-    if (allHeld && allSameValue) {
-      setTenzies(true);
-      console.log("You won!");
-    }
-  }, [dice]);
 
-  useEffect(() =>{
-    setTimeout(function(){
-      setTimeDisplay(prev => !prev)},500)
-  },[timeDisplay])
+## Day 54/100 July 29 2022:
 
-  ///Generate new die
-  function generateNewDie() {
-    return {
-      value: Math.ceil(Math.random() * 6),
-      isHeld: false,
-      id: nanoid()
-    };
-  }
-  useEffect(()=>{
-      localStorage.setItem('bestTime', JSON.stringify(bestTime))
-  },[bestTime])
-  useEffect(() => {
-    setTimeout(function(){
-      setTimer(prev => prev + 1);
-    }, 1000);
-  },[timer]);
-  function createRandNumber() {
-    const newArr = [];
-
-    for (let i = 0; i < 10; i++) {
-      newArr.push(generateNewDie());
-    }
-    return newArr;
-  }
-  function rollDice() {
-    setDice((oldDice) =>
-      oldDice.map((die) => {
-        return die.isHeld ? die : generateNewDie();
-      })
-    );
-  }
-  function newGame() {
-    setDice(createRandNumber());
-    setTenzies(false);
-    setTimer(0)
-    tenzies && setBestTime(prev => [...prev, timer])
-  }
-
-  function hold(id) {
-    setDice((prevDice) => {
-      const d = prevDice.map((item) =>
-        item.id === id ? { ...item, isHeld: !item.isHeld } : item
-      );
-      return d;
-    });
-  }
-
-  const diceElements = dice.map((die) => (
-    <Dice
-      toggle={() => hold(die.id)}
-      value={die.value}
-      key={die.id}
-      isHeld={die.isHeld}
-    />
-  ));
-  return (
-    <main>
-      {tenzies && <Confetti />}
-
-      { tenzies === false && timeDisplay && <h1 className="timer">{timer}</h1>}
-      {tenzies ? (
-        <h1>Congratulations</h1>
-      ) : (
-        <div>
-          <h1>Tenzies</h1>
-          <p>
-            Roll until all dice are the same. Click each die to freeze it at its
-            current value between rolls.
-          </p>
-        </div>
-      )}
-      <div className="dice-container">{diceElements}</div>
-      <button onClick={tenzies ? newGame : rollDice} className="roll">
-        {tenzies ? "New Game" : "Roll Dice!"}
-      </button>
-    </main>
-  );
-}
-
-export default Tenzi;
+**Today's Progress**:
+**Thoughts**: 
+**Link to work**: 
 
 
 ## Day 53/100 July 28 2022:
+
+**Today's Progress**: Today I worked on the cs50's web programming with Python and Javascript.
+I was working on the week 4 The content was about SQL, Models, and Migrations(project 2). I also reviewed some command to create a table.
+
+** CREATE TABLE **
+
+For us to work with table we need to add a primary key to each table (and it should AUTOINCREMENT). Also we need to have constraints (for e.g NOT NULL, DEFAULT, UNIQUE, PRIMARY KEY, CHECK[ check if a value is within a specific range]) for different elements of the table.
+
+A normal table will look like this:
+
+```
+CREATE TABLE flights(
+id INTEGER PRIMARY KEY AUTOINCREMENT,
+origin TEXT NOT NULL,
+destination TEXT NOT NULL,
+durartion INTEGER NOT NULL
+);
+```
+BUt how do we add data in that table? We will use the command INSERT INTO as folow:
+
+```
+INSERT INTO flights
+(origin, destination, duration)
+VALUES("New York", "Kinshasa", 415);
+```
+For us to retrieve the data from the table we use the select/
+```
+SELECT * FROM flights;
+```
+
+or ```SELECT origin, destination FROM flights```
+
+For us to be able to update a datav in a table we use the  command UPDATE:
+
+```
+UPDATE flights
+SET duration = 430
+WHERE origin = "Kinshasa"
+AND destination = "London";
+```
+For us to be able to delete data we use DELETE:
+
+```DELETE FROM flights WHERE destination = "Kinshasa";```
+
+The are also some other clauses: such as LIMIT, ORDER BY, GROUP BY,  HAVING, and many more
+
+
+**Thoughts**: 
+**Link to work**: 
 
 ## Day 52/100 July 27 2022:
 
@@ -142,7 +82,7 @@ export default Tenzi;
  **Thoughts**:I came accross a great way to measure efficiency of things while coding or even in real life. We use the worst case scenario as a bench mark for our expectation. I think learning algorithm is very helpful for me.
  
  
-  **Link to work**:
+  **Link to work**: my work can be foun at [this repo](https://github.com/LeGrandMAG/Data-Structures-and-Algorithm)
 
 
 
