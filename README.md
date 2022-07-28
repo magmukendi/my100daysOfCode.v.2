@@ -17,7 +17,7 @@ I was working on the week 4 The content was about SQL, Models, and Migrations(pr
 
 ** CREATE TABLE **
 
-For us to work with table we need to add a primary key to each table (and it should AUTOINCREMENT). Also we need to have constraints (for e.g NOT NULL, DEFAULT, UNIQUE, PRIMARY KEY, CHECK[ check if a value is within a specific range]) for different elements of the table.
+For us to work with table we need to add a primary key to each table (and it should AUTOINCREMENT). Also we need to have constraints (for e.g NOT NULL, DEFAULT, UNIQUE, PRIMARY KEY, CHECK check if a value is within a specific range) for different elements of the table.
 
 A normal table will look like this:
 
@@ -57,6 +57,9 @@ For us to be able to delete data we use DELETE:
 
 The are also some other clauses: such as LIMIT, ORDER BY, GROUP BY,  HAVING, and many more
 
+What is a foreign key ?
+
+When our table have a lot of data it becomes messy. In order to fix that we need to make new simpler table and use foreign key to reference to them.
 
 **Thoughts**: 
 **Link to work**: 
