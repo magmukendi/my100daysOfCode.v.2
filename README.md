@@ -2,12 +2,17 @@
 <h4> In this repository I document my journey for the 100 days of Coding challenge</h4>
 
 
+## Day 55/100: July 30 2022:
+**Today's Progress**: 
+**Thoughts**: 
+**Link to work**: 
+
 
 ## Day 54/100 July 29 2022:
 
-**Today's Progress**:
+**Today's Progress**: Today I worked on cs50 project again. I finished the project 1 ( wiki ). Hopefully I will get a reply very soon. This project taught how to use filtering. and playing with the views in django.
 **Thoughts**: 
-**Link to work**: 
+**Link to work**: The project 1 can be found [here] (https://github.com/me50/LeGrandMAG/tree/web50/projects/2020/x/wiki)
 
 
 ## Day 53/100 July 28 2022:
@@ -61,8 +66,8 @@ What is a foreign key ?
 
 When our table have a lot of data it becomes messy. In order to fix that we need to make new simpler table and use foreign key to reference to them.
 
-**Thoughts**: 
-**Link to work**: 
+**Thoughts**: I think cs50 is very helpful. The way they teach the examples, the exercises, the Project. That is amazing.
+**Link to work**: No link available.
 
 ## Day 52/100 July 27 2022:
 
