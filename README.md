@@ -2,16 +2,26 @@
 <h4> In this repository I document my journey for the 100 days of Coding challenge</h4>
 
 
-## Day 55/100: July 30 2022:
-**Today's Progress**: 
-**Thoughts**: 
-**Link to work**: 
+## Day 55/100: July 30 2022
+
+**Today's Progress**: I worked on codetree problem for novice low. I think I will be done very soon.This level focus on printing. 출력. IN order for me to print something on python I will need to use one of those three ways:
+
+```
+print("")
+print(f"")
+or print({}.format{})
+```
+**Thoughts**: It is always great to start back fresh again. I am just 
+**Link to work**: I ma not having a seperate link to document my progress. When I start working on harder algorithm questions. I will update that.
 
 
 ## Day 54/100 July 29 2022:
 
 **Today's Progress**: Today I worked on cs50 project again. I finished the project 1 (wiki). Hopefully I will get a reply very soon. This project taught how to use filtering. and playing with the views in django.
-**Thoughts**:  I is very hard 
+
+
+Built a piano notes playing app.
+**Thoughts**:  I is very hard to code and to programming and one of the best thing we can do is to find a supportive community.
 **Link to work**: The project 1 can be found [here] (https://github.com/me50/LeGrandMAG/tree/web50/projects/2020/x/wiki)
 
 
