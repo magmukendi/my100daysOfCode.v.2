@@ -1,6 +1,11 @@
 # my100daysOfCode
 <h4> In this repository I document my journey for the 100 days of Coding challenge</h4>
 
+## Day 56/100: July 31 2022:
+
+Worked on the codetree questions. Reviewed input and output in python,.
+
+
 
 ## Day 55/100: July 30 2022
 
