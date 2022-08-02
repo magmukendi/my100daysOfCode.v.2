@@ -1,10 +1,22 @@
 # my100daysOfCode
 <h4> In this repository I document my journey for the 100 days of Coding challenge</h4>
 
+## Day 59/100 August 3rd 2022:
+
+
+
+## Day 58/100 August 2nd 2022:
+
+**Today's Progress**: Today I worked on on codetree's 차열. List 거꾸로 탐색
+**Thoughts**:
+**Link to work**:
+
 ## Day 57/100: August 1st 2022:
+Worked in freecode camp's Javascript intermediate algorithm.
+
+
 
 ## Day 56/100: July 31 2022:
-
 Worked on the codetree questions. Reviewed input and output in python,.
 
 
@@ -25,8 +37,6 @@ or print({}.format{})
 ## Day 54/100 July 29 2022:
 
 **Today's Progress**: Today I worked on cs50 project again. I finished the project 1 (wiki). Hopefully I will get a reply very soon. This project taught how to use filtering. and playing with the views in django.
-
-
 Built a piano notes playing app.
 **Thoughts**:  I is very hard to code and to programming and one of the best thing we can do is to find a supportive community.
 **Link to work**: The project 1 can be found [here] (https://github.com/me50/LeGrandMAG/tree/web50/projects/2020/x/wiki)
