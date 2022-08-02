@@ -7,8 +7,8 @@
 
 ## Day 58/100 August 2nd 2022:
 
-**Today's Progress**: Today I worked on on codetree's 차열. List 거꾸로 탐색
-**Thoughts**:
+**Today's Progress**: Today I worked on on codetree's assignments. 1차원배열, 2차워 배열, and 문자열 전부
+**Thoughts**: After working on those assignments I feeel more confident about my python coding. It is true that practice makes perfect.
 **Link to work**:
 
 ## Day 57/100: August 1st 2022:
