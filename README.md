@@ -19,7 +19,7 @@
 
 ## Day 59/100 August 3rd 2022:
 
-**Today's Progress**: 2차원 배열. WHich is like a 2d array. I got to learn that when we use the ```len()``` method in a 2d array it return the number of rows. Also I was today's year old when I discovered that I can also use the following formula to add elements into an 2d array.
+**Today's Progress**: 2차원 배열. Which is like a 2d array. I got to learn that when we use the ```len()``` method in a 2d array it return the number of rows. Also I was today's year old when I discovered that I can also use the following formula to add elements into an 2d array.
 
 ```
 arr = [
@@ -27,7 +27,7 @@ arr = [
  for _ in range(3)
  ]
  ```
- 
+ I also worked on the intermediate algorithm from freeCodeCamp. I worked on a DNA pairing program. 
 **Thoughts**: 
 **Link to work**:
 
