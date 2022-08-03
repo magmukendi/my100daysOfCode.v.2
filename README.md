@@ -27,7 +27,8 @@ arr = [
  for _ in range(3)
  ]
  ```
- I also worked on the intermediate algorithm from freeCodeCamp. I worked on a DNA pairing program. 
+ I also worked on the intermediate algorithm from freeCodeCamp. I worked on a **DNA pairing, missing letters** program.
+ 
 **Thoughts**: 
 **Link to work**:
 
