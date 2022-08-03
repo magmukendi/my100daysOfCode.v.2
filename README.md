@@ -1,13 +1,39 @@
 # my100daysOfCode
 <h4> In this repository I document my journey for the 100 days of Coding challenge</h4>
 
+
+
+
+
+##Day 61/100 August 5th 2022:
+
+**Today's Progress**: 
+**Thoughts**: 
+**Link to work**:
+
+##Day 60/100 August 4th 2022:
+
+**Today's Progress** :  
+**Thoughts**: 
+**Link to work**:
+
 ## Day 59/100 August 3rd 2022:
 
+**Today's Progress**: 2차원 배열. WHich is like a 2d array. I got to learn that when we use the ```len()``` method in a 2d array it return the number of rows. Also I was today's year old when I discovered that I can also use the following formula to add elements into an 2d array.
 
+```
+arr = [
+ list(input().split())
+ for _ in range(3)
+ ]
+ ```
+ 
+**Thoughts**: 
+**Link to work**:
 
 ## Day 58/100 August 2nd 2022:
 
-**Today's Progress**: Today I worked on on codetree's assignments. 1차원배열, 2차워 배열, and 문자열 전부
+**Today's Progress**: Today I worked on on codetree's assignments. 1차원배열, 2차원 배열, and 문자열 전부
 **Thoughts**: After working on those assignments I feeel more confident about my python coding. It is true that practice makes perfect.
 **Link to work**:
 
