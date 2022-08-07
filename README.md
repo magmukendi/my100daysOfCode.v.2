@@ -2,6 +2,13 @@
 <h4> In this repository I document my journey for the 100 days of Coding challenge</h4>
 
 
+## Day 62/100: August 6th 2022:
+**Today's Progress**: I am currently reviewing dx/dy technique. How to move a point in a grid. I also worked on how to change the direction of the point in a plan. 
+When working with grid it is always important to mention the out of range bound. So that you can can be protected from being out of range.
+
+
+**Thoughts**: 
+**Link to work**:
 
 
 
