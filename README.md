@@ -1,6 +1,9 @@
 # my100daysOfCode
 <h4> In this repository I document my journey for the 100 days of Coding challenge</h4>
 
+## Day 64/100 August 8th 2022:
+
+## Day 63/100 August 7th 2022:
 
 ## Day 62/100: August 6th 2022:
 **Today's Progress**: I am currently reviewing dx/dy technique. How to move a point in a grid. I also worked on how to change the direction of the point in a plan. 
