@@ -1,6 +1,16 @@
 # my100daysOfCode
 <h4> In this repository I document my journey for the 100 days of Coding challenge</h4>
 
+## Day 71/100 August 15th 2022:
+
+**Today's Progress**: I revisited Redux. Reviewd how to use redux store. And redux action. How to define redux action creators.
+
+**Thoughts**: 
+**Link to work**:
+
+## Day 70/100 August 14th 2022:
+
+## Day 69/100 August 13th 2022:
 
 ## Day 68/100 August 12th 2022:
 
