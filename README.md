@@ -3,7 +3,11 @@
 
 ## Day 71/100 August 15th 2022:
 
-**Today's Progress**: I revisited Redux. Reviewd how to use redux store. And redux action. How to define redux action creators.
+**Today's Progress**: I revisited Redux. Reviewd how to use redux store. 
+
+And redux action: A redux action is just an object with type 
+
+How to define redux action creators: In order for use the define a redux action creator. we just need to define a function that return an action,
 
 **Thoughts**: 
 **Link to work**:
