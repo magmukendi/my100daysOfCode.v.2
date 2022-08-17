@@ -1,11 +1,21 @@
 # my100daysOfCode
 <h4> In this repository I document my journey for the 100 days of Coding challenge</h4>
 
+## Day 72/100 August 16th 2022:
+
+**Today's Progress**: I practiced some intermediate algorithm in Javascript. I worked on a program that check if all the  a property is truthy in all the objects of the list. Instead of using the traditional Boolean(), i designed a function that check for all that and return true or false value
+
+
+**Thoughts**: I think the project doesn't really have any use cases but I think it was super important to understand the logic behind that.
+
+**Link to work**: The work can be found [here](https://github.com/LeGrandMAG/freeCodeCamp/tree/master/Intermediate%20Algorithm%20Scripting)
+
+
 ## Day 71/100 August 15th 2022:
 
 **Today's Progress**: I revisited Redux. Reviewd how to use redux store. 
 
-**Redux action**: A redux action is just an object with type. 
+***Redux action**: A redux action is just an object with type. 
 
 **Redux action creator**: In order for use the define a redux action creator. we just need to define a function that return an action,
 
