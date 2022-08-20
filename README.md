@@ -1,6 +1,15 @@
 # my100daysOfCode
 <h4> In this repository I document my journey for the 100 days of Coding challenge</h4>
 
+
+## Day 76/100 August 20th 2022:
+
+## Day 75/100 August 19th 2022:
+
+## Day 74/100: August 18th 2022: 
+
+## Day 73/100 August 17th 2022:
+
 ## Day 72/100 August 16th 2022:
 
 **Today's Progress**: I practiced some intermediate algorithm in Javascript. I worked on a program that check if all the  a property is truthy in all the objects of the list. Instead of using the traditional Boolean(), i designed a function that check for all that and return true or false value
