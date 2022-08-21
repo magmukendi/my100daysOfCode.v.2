@@ -2,7 +2,28 @@
 <h4> In this repository I document my journey for the 100 days of Coding challenge</h4>
 
 
+## Day 78/100 August 22nd 2022:
+*** Today's Progess**: 
+
+**Thoughts**:
+**Link to work**: The work can be found [here]
+
+## Day 77/100: August 21st 2022:
+**Today's Progress**: I finally finished all the cha
+
+
+**Thoughts**: I think the project doesn't really have any use cases but I think it was super important to understand the logic behind that.
+
+**Link to work**: The work can be found [here]
+
 ## Day 76/100 August 20th 2022:
+
+**Today's Progress**: 
+
+
+**Thoughts**: I think the project doesn't really have any use cases but I think it was super important to understand the logic behind that.
+
+**Link to work**: The work can be found [here]
 
 ## Day 75/100 August 19th 2022:
 
