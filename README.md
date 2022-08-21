@@ -2,6 +2,11 @@
 <h4> In this repository I document my journey for the 100 days of Coding challenge</h4>
 
 
+## Day 79/100 August 23rd 2022:
+**Today's Progess**: 
+**Thoughts**:
+**Link to work**
+
 ## Day 78/100 August 22nd 2022:
 **Today's Progess**: 
 **Thoughts**:
@@ -17,7 +22,10 @@
 
 ## Day 76/100 August 20th 2022:
 
-**Today's Progress**: I worked on Make a Person. A program that creates an object that take as argument the full name, create methods that log the first name, the last name, the full name. Methods that update the first name, the last name, the full name.
+**Today's Progress**: 
+ - I worked on Make a Person. A program that creates an object that take as argument the full name, create methods that log the first name, the last name, the full name. Methods that update the first name, the last name, the full name.
+ 
+ - I also worked on WEPO App's frontend design. I started working on the product page. Which will contain the different post of the application. I was having some issues with with adding a sticky effect CSS's position stucky effect for the text field when people search for item on the posting page. Also if someone try to click on loop icon, instead of being redirected to the search screen, he would stay at the product list screen and to the query from there. Also, when someone does a query but there is not result for the query, He should see a component telling him that there is no search results.
 
 
 **Thoughts**: I think this program might be very useful when I am building form or I am trying to register people in a Data base.
@@ -213,21 +221,21 @@ When our table have a lot of data it becomes messy. In order to fix that we need
  **Today's Progress**:
  - Worked on algorithms: Binary search and linear search
  - Reviewed algorithm time complexity. How much time an algorithm takes to complete a t
- - Space complexity: how much space the algoruthm takes in our memmory. Recursive binary search is O (log N). 
+ - Space complexity: how much space the algorithm takes in our memmory. Recursive binary search is O (log N). 
  
  Need to look into Tail optimization for more details.
  
- **Thoughts**:I came accross a great way to measure efficiency of things while coding or even in real life. We use the worst case scenario as a bench mark for our expectation. I think learning algorithm is very helpful for me.
+ **Thoughts**:I came accross a great way to measure efficiency of things while coding or even in real life. We use the worst case scenario as a benchmark for our expectation. IF we consider the worst case scenario we can prepare for it and plan accordingly. Even though it does not happen, at least we would know that the we are safe.
  
  
-  **Link to work**: my work can be foun at [this repo](https://github.com/LeGrandMAG/Data-Structures-and-Algorithm)
+  **Link to work**: my work can be found at [this repo](https://github.com/LeGrandMAG/Data-Structures-and-Algorithm)
 
 
 
 ## Day 50/100 July 25 2022:
 
 ## Day 49/100 July 24 2022:
- - Started working on a auctions website
+ - Started working on a auctions website as part of the cs50 Web Programming with Python and Javascript's project.
 ## Day 48/100 July 23 2022:
 
 ## Day 47/100 July 22 2022:
