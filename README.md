@@ -39,11 +39,18 @@
 
 ## Day 74/100: August 18th 2022: 
 
+**Today's Progess**: I worked on Code Treee challenges.
+**Thoughts**:
+**Link to work**
+
 ## Day 73/100 August 17th 2022:
+**Today's Progess**: I worked on Code Treee challenges.
+**Thoughts**:
+**Link to work**
 
 ## Day 72/100 August 16th 2022:
 
-**Today's Progress**: I practiced some intermediate algorithm in Javascript. I worked on a program that check if all the  a property is truthy in all the objects of the list. Instead of using the traditional Boolean(), i designed a function that check for all that and return true or false value
+**Today's Progress**: I practiced some intermediate algorithm in Javascript. I worked on a program that check if all the  a property is truthy in all the objects of the list. Instead of using the traditional Boolean(), i designed a function that check for all that and return true or false value.
 
 
 **Thoughts**: I think the project doesn't really have any use cases but I think it was super important to understand the logic behind that.
@@ -60,10 +67,14 @@
 **Redux action creator**: In order for use the define a redux action creator. we just need to define a function that return an action,
 
 **Redux dispatch method** is used to dispatch actions to the reduc store.
-**Thoughts**: 
-**Link to work**:
+**Thoughts**: I wasn't really sure about why I should using redux, but after understanding that it is pretty hard to manage state on their own, redux becomes a very usefull tool.
+**Link to work**: [Free Code Camp: FrontEnd Development Libraries (redux)](https://www.freecodecamp.org/learn/front-end-development-libraries/#redux)
 
 ## Day 70/100 August 14th 2022:
+**Today's Progess**: 
+**Thoughts**:
+**Link to work**:
+
 
 ## Day 69/100 August 13th 2022:
 
