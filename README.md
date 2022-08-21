@@ -20,7 +20,7 @@ I also finished working on the Palindrome Checker, it is one of the 4 projects t
 
 **Thoughts**: I finally finished all 21 challenges about Intermediate Algorithm Scripting in the Javascript Algorithms and Data Structures from free Code Camp. I only have to do the 4 projects left and I will get my certificate. 
 
-**Link to work**: 
+**Link to my work**: 
 - [Map the Debris](https://github.com/LeGrandMAG/freeCodeCamp/blob/master/Intermediate%20Algorithm%20Scripting/mapTheDebris.js)
 - [Palindrome Checker](https://github.com/LeGrandMAG/freeCodeCamp/blob/master/Intermediate%20Algorithm%20Scripting/palindromeChecker.js)
 
