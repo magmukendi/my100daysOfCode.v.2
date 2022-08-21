@@ -13,7 +13,9 @@
 **Link to work**: 
 
 ## Day 77/100: August 21st 2022:
-**Today's Progress**: I worked on the Map Debris, a program that computes thev orbital Period using Kepler's Third Law. 
+**Today's Progress**: I worked on the Map Debris, a program that computes thev orbital Period using Kepler's Third Law.
+
+I started working Palindrome Checker, it is one of the 4 projects to finish Javascript Algorithms and Data Structures Projects. 
 
 
 **Thoughts**: I finally finished all 21 challenges about Intermediate Algorithm Scripting in the Javascript Algorithms and Data Structures from free Code Camp. I only have to do the 4 projects left and I will get my certificate. 
