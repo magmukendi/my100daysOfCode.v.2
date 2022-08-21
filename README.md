@@ -10,8 +10,8 @@
 ## Day 78/100 August 22nd 2022:
 **Today's Progess**: 
 
-I started working on a Roman Numeral Converter. A program that convert any given number into Roman Numeral notation.
-**Thoughts**:
+I finished working on the Roman Numeral Converter. A program that convert any given number into Roman Numeral notation.
+**Thoughts**: This project was quite easy to achievem I just needed to find the right algorithm to apply.
 **Link to work**: [Roman Numeral Converter](https://github.com/LeGrandMAG/freeCodeCamp/blob/master/Intermediate%20Algorithm%20Scripting/romanNumeralConverter.js)
 
 ## Day 77/100: August 21st 2022:
