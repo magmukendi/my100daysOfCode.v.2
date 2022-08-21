@@ -11,8 +11,14 @@
 **Today's Progess**: 
 
 I finished working on the Roman Numeral Converter. A program that convert any given number into Roman Numeral notation.
-**Thoughts**: This project was quite easy to achievem I just needed to find the right algorithm to apply.
-**Link to work**: [Roman Numeral Converter](https://github.com/LeGrandMAG/freeCodeCamp/blob/master/Intermediate%20Algorithm%20Scripting/romanNumeralConverter.js)
+
+I finished working on the Caesars Cipher also known as the shift cipher. It is a program that shift the value of letters 
+
+**Thoughts**: This project was quite easy to achieve. I just needed to find the right algorithm to apply. I just noticed that it is easier for me to work with algorithm that include strings and characters rather then surface or spaces as it is the case in many of code tree problems.
+
+**Link to work**: 
+- [Roman Numeral Converter](https://github.com/LeGrandMAG/freeCodeCamp/blob/master/Intermediate%20Algorithm%20Scripting/finalProjects/romanNumeralConverter.js)
+- [Caesars Cipher](https://github.com/LeGrandMAG/freeCodeCamp/blob/master/Intermediate%20Algorithm%20Scripting/finalProjects/caesarsCipher.js)
 
 ## Day 77/100: August 21st 2022:
 **Today's Progress**: I worked on the Map Debris, a program that computes thev orbital Period using Kepler's Third Law.
@@ -24,8 +30,8 @@ I also finished working on the Palindrome Checker, it is one of the 4 projects t
 
 **Link to my work**: 
 - [Map the Debris](https://github.com/LeGrandMAG/freeCodeCamp/blob/master/Intermediate%20Algorithm%20Scripting/mapTheDebris.js)
-- [Palindrome Checker](https://github.com/LeGrandMAG/freeCodeCamp/blob/master/Intermediate%20Algorithm%20Scripting/palindromeChecker.js)
-
+- [Palindrome Checker](https://github.com/LeGrandMAG/freeCodeCamp/blob/master/Intermediate%20Algorithm%20Scripting/finalProjects/palindromeChecker.js)
+- [Phone Number Validator](https://github.com/LeGrandMAG/freeCodeCamp/blob/master/Intermediate%20Algorithm%20Scripting/finalProjects/telephoneNumberValidator.js)
 
 ## Day 76/100 August 20th 2022:
 
