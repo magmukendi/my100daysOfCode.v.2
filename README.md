@@ -13,7 +13,7 @@
 
 **Thoughts**: I finally finished all 21 challenges about Intermediate Algorithm Scripting in the Javascript Algorithms and Data Structures from free Code Camp. I only have to do the 4 projects left and I will get my certificate. 
 
-**Link to work**: The work can be found here:[Intermediate Algorithm Scripting](https://github.com/LeGrandMAG/freeCodeCamp/tree/master/Intermediate%20Algorithm%20Scripting)
+**Link to work**: The work can be found here: [Map the Debris](https://github.com/LeGrandMAG/freeCodeCamp/blob/master/Intermediate%20Algorithm%20Scripting/mapTheDebris.js)
 
 ## Day 76/100 August 20th 2022:
 
@@ -27,7 +27,7 @@
 ## Day 75/100 August 19th 2022:
 **Today's Progress**: I worked on Arguments Optional. I had to build a function that takes two arguments and return the sum. In case only one argument was given, it will return a function that take another argument  And return the sum of both arguments. If we input an argument who type is different from number, the code should return the sum of both the arguments.
 **Thoughts**:
-**Link to work**: The work can be found [here]
+**Link to work**: The work can be found [Arguments Optional](https://github.com/LeGrandMAG/freeCodeCamp/blob/master/Intermediate%20Algorithm%20Scripting/makeAPerson.js)
 
 ## Day 74/100: August 18th 2022: 
 
