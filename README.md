@@ -32,7 +32,6 @@ I also finished working on the Palindrome Checker, it is one of the 4 projects t
 **Link to my work**: 
 - [Map the Debris](https://github.com/LeGrandMAG/freeCodeCamp/blob/master/Intermediate%20Algorithm%20Scripting/mapTheDebris.js)
 - [Palindrome Checker](https://github.com/LeGrandMAG/freeCodeCamp/blob/master/Intermediate%20Algorithm%20Scripting/finalProjects/palindromeChecker.js)
-- [Phone Number Validator](https://github.com/LeGrandMAG/freeCodeCamp/blob/master/Intermediate%20Algorithm%20Scripting/finalProjects/telephoneNumberValidator.js)
 
 ## Day 76/100 August 20th 2022:
 
