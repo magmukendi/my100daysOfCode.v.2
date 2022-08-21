@@ -9,8 +9,10 @@
 
 ## Day 78/100 August 22nd 2022:
 **Today's Progess**: 
+
+I started working on a Roman Numeral Converter. A program that convert any given number into Roman Numeral notation.
 **Thoughts**:
-**Link to work**: 
+**Link to work**: [Roman Numeral Converter](https://github.com/LeGrandMAG/freeCodeCamp/blob/master/Intermediate%20Algorithm%20Scripting/romanNumeralConverter.js)
 
 ## Day 77/100: August 21st 2022:
 **Today's Progress**: I worked on the Map Debris, a program that computes thev orbital Period using Kepler's Third Law.
@@ -18,7 +20,7 @@
 I also finished working on the Palindrome Checker, it is one of the 4 projects to finish Javascript Algorithms and Data Structures Projects. This project check for work that are identical forward and backward after removing all the alpha-numeric characters such as comma space and symbols and converting everything into lowercase.
 
 
-**Thoughts**: I finally finished all 21 challenges about Intermediate Algorithm Scripting in the Javascript Algorithms and Data Structures from free Code Camp. I only have to do the 4 projects left and I will get my certificate. 
+**Thoughts**: I finally finished all 21 challenges about Intermediate Algorithm Scripting in the Javascript Algorithms and Data Structures from free Code Camp. I only have to complete the 4 projects left and I will get my certificate.  
 
 **Link to my work**: 
 - [Map the Debris](https://github.com/LeGrandMAG/freeCodeCamp/blob/master/Intermediate%20Algorithm%20Scripting/mapTheDebris.js)
