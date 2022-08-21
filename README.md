@@ -19,6 +19,7 @@ I finished working on the Caesars Cipher also known as the shift cipher. It is a
 **Link to work**: 
 - [Roman Numeral Converter](https://github.com/LeGrandMAG/freeCodeCamp/blob/master/Intermediate%20Algorithm%20Scripting/finalProjects/romanNumeralConverter.js)
 - [Caesars Cipher](https://github.com/LeGrandMAG/freeCodeCamp/blob/master/Intermediate%20Algorithm%20Scripting/finalProjects/caesarsCipher.js)
+- [Telephone Number Validator](https://github.com/LeGrandMAG/freeCodeCamp/blob/master/Intermediate%20Algorithm%20Scripting/finalProjects/telephoneNumberValidator.js)
 
 ## Day 77/100: August 21st 2022:
 **Today's Progress**: I worked on the Map Debris, a program that computes thev orbital Period using Kepler's Third Law.
