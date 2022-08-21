@@ -3,29 +3,31 @@
 
 
 ## Day 78/100 August 22nd 2022:
-*** Today's Progess**: 
-
+**Today's Progess**: 
 **Thoughts**:
-**Link to work**: The work can be found [here]
+**Link to work**: 
 
 ## Day 77/100: August 21st 2022:
-**Today's Progress**: I finally finished all the cha
+**Today's Progress**: I worked on the Map Debris, a program that computes thev orbital Period using Kepler's Third Law. 
 
 
-**Thoughts**: I think the project doesn't really have any use cases but I think it was super important to understand the logic behind that.
+**Thoughts**: I finally finished all 21 challenges about Intermediate Algorithm Scripting in the Javascript Algorithms and Data Structures from free Code Camp. I only have to do the 4 projects left and I will get my certificate. 
 
-**Link to work**: The work can be found [here]
+**Link to work**: The work can be found here:[Intermediate Algorithm Scripting](https://github.com/LeGrandMAG/freeCodeCamp/tree/master/Intermediate%20Algorithm%20Scripting)
 
 ## Day 76/100 August 20th 2022:
 
-**Today's Progress**: 
+**Today's Progress**: I worked on Make a Person. A program that creates an object that take as argument the full name, create methods that log the first name, the last name, the full name. Methods that update the first name, the last name, the full name.
 
 
-**Thoughts**: I think the project doesn't really have any use cases but I think it was super important to understand the logic behind that.
+**Thoughts**: I think this program might be very useful when I am building form or I am trying to register people in a Data base.
 
-**Link to work**: The work can be found [here]
+**Link to work**: [Make a Person](https://github.com/LeGrandMAG/freeCodeCamp/blob/master/Intermediate%20Algorithm%20Scripting/makeAPerson.js)
 
 ## Day 75/100 August 19th 2022:
+**Today's Progress**: I worked on Arguments Optional. I had to build a function that takes two arguments and return the sum. In case only one argument was given, it will return a function that take another argument  And return the sum of both arguments. If we input an argument who type is different from number, the code should return the sum of both the arguments.
+**Thoughts**:
+**Link to work**: The work can be found [here]
 
 ## Day 74/100: August 18th 2022: 
 
@@ -38,12 +40,12 @@
 
 **Thoughts**: I think the project doesn't really have any use cases but I think it was super important to understand the logic behind that.
 
-**Link to work**: The work can be found [here](https://github.com/LeGrandMAG/freeCodeCamp/tree/master/Intermediate%20Algorithm%20Scripting)
+**Link to work**: The work can be found here:[Intermediate Algorithm Scripting](https://github.com/LeGrandMAG/freeCodeCamp/tree/master/Intermediate%20Algorithm%20Scripting)
 
 
 ## Day 71/100 August 15th 2022:
 
-**Today's Progress**: I revisited Redux. Reviewd how to use redux store. 
+**Today's Progress**: I revisited Redux. Reviewed how to use redux store. 
 
 ***Redux action**: A redux action is just an object with type. 
 
