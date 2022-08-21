@@ -168,7 +168,7 @@ or print({}.format{})
 **Today's Progress**: Today I worked on cs50 project again. I finished the project 1 (wiki). Hopefully I will get a reply very soon. This project taught how to use filtering. and playing with the views in django.
 Built a piano notes playing app.
 **Thoughts**:  I is very hard to code and to programming and one of the best thing we can do is to find a supportive community.
-**Link to work**: The project 1 can be found [here] (https://github.com/me50/LeGrandMAG/tree/web50/projects/2020/x/wiki)
+**Link to work**: The project 1 can be found [here](https://github.com/me50/LeGrandMAG/tree/web50/projects/2020/x/wiki)
 
 
 ## Day 53/100 July 28 2022:
