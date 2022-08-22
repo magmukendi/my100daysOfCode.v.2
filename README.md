@@ -10,6 +10,8 @@
 ## Day 78/100 August 22nd 2022:
 **Today's Progess**: 
 
+I finished working on the US Telephone Number validator. A program that check if the inputed number is a valid US phone number.
+
 I finished working on the Roman Numeral Converter. A program that convert any given number into Roman Numeral notation.
 
 I finished working on the Caesars Cipher also known as the shift cipher. It is a program that shift the value of letters 
