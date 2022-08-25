@@ -2,9 +2,24 @@
 <h4> In this repository I document my journey for the 100 days of Coding challenge</h4>
 
 
+## Day 81/100 August 25th 2022:
+**Today's Progess**: I am finally finishing the cash register. 
+**Thoughts**: The logic behind the code itself was easy but. I forgot one important programming principles: divide and conquer. I was trying to solve the problem having the bigger picture in mind. The best solution was to break every single problem in small tasks and solve them one after the other. I swear I did watch other people's work.
+
+**Link to work**:
+- [Cash Register](https://github.com/LeGrandMAG/freeCodeCamp/blob/master/Intermediate%20Algorithm%20Scripting/finalProjects/cashRegister.js)
+
+
+## Day 780/100 August 24th 2022:
+**Today's Progess**: Today was such a busy day. I barely touched my PC to code.
+**Thoughts**: Nothing much to say here.
+**Link to work**:
+- [Cash Register](https://github.com/LeGrandMAG/freeCodeCamp/blob/master/Intermediate%20Algorithm%20Scripting/finalProjects/cashRegister.js)
+
+
 ## Day 79/100 August 23rd 2022:
 **Today's Progess**: I am still working on the cash Register. I did not finish it yet :(. I cannot manage to pass the last code test. The test asks me to return unsufficient found if the change in the drawer is less than the change due. But this is super confusing.
-**Thoughts**:
+**Thoughts**: NOthing much to say here.
 **Link to work**:
 - [Cash Register](https://github.com/LeGrandMAG/freeCodeCamp/blob/master/Intermediate%20Algorithm%20Scripting/finalProjects/cashRegister.js)
 
