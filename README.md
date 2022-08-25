@@ -3,9 +3,10 @@
 
 
 ## Day 79/100 August 23rd 2022:
-**Today's Progess**: 
+**Today's Progess**: I am still working on the cash Register. I did not finish it yet :(. I cannot manage to pass the last code test. The test asks me to return unsufficient found if the change in the drawer is less than the change due. But this is super confusing.
 **Thoughts**:
-**Link to work**
+**Link to work**:
+- [Cash Register](https://github.com/LeGrandMAG/freeCodeCamp/blob/master/Intermediate%20Algorithm%20Scripting/finalProjects/cashRegister.js)
 
 ## Day 78/100 August 22nd 2022:
 **Today's Progess**: 
