@@ -9,9 +9,35 @@
 
 
 ## Day 84/100 August 28th 2022:
-**Today's progress**: Worked on Redux reducer. A common practice while working with reducer is to use const for action types. It is better to use constant rather using strings.
+**Today's progress**: 
 
-I also learned how to use the subscribe() method from the redux. I got an hand on dispatch functions. Which is like a way for us to listen to change made in the store.s
+Task 1: Worked on Redux reducer. A common practice while working with reducer is to use const for action types. It is better to use constant rather using strings.
+
+Task 2: I also learned how to use the subscribe() method from the redux. I got an hand on dispatch functions. Which is like a way for us to listen to change made in the store.
+
+
+Task 3: Combine multiple reducers. When the app starts to grow bigger and bigger, it is temptiing to divide its state to multiple pieces. But if you use redux, you should keep them in a single state object. You should have a root reducer and pas that it into the redux createStore() method.
+
+For us to be able to combine multiple reducers, we can use the combine Reducers() method. It is best practice to create a reducer for each of the application state when they are distinct or unique.
+
+
+
+For ex. Note taking app with user authentication, one reducer can handle authentication and another could handle text and notes that the user is submitting.
+
+we will write a combineReducers() 
+
+const rootReducer = Redux.combineReducers({
+auth: authenticationReducer,
+notes: notesReducer
+})
+
+TASK 4: Sending action data to the store
+
+TASK 5: Using middleware to handle asynchronous actions
+ Redux has middle that helps us handle asynchronous endpoints. Redux Thunk middleware.
+
+
+TASK 6: Making a counter with Redux
 **Thoughts**:
 **Link to work**:
 
