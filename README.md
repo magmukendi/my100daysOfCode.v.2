@@ -3,13 +3,15 @@
 
 
 ## Day 85/100 August 29th 2022:
-**Today's progress**:
+**Today's progress**: 
 **Thoughts**:
 **Link to work**:
 
 
 ## Day 84/100 August 28th 2022:
-**Today's progress**:
+**Today's progress**: Worked on Redux reducer. A common practice while working with reducer is to use const for action types. It is better to use constant rather using strings.
+
+I also learned how to use the subscribe() method from the redux. I got an hand on dispatch functions. Which is like a way for us to listen to change made in the store.s
 **Thoughts**:
 **Link to work**:
 
