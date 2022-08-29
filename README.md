@@ -2,8 +2,33 @@
 <h4> In this repository I document my journey for the 100 days of Coding challenge</h4>
 
 
+## Day 85/100 August 29th 2022:
+** Today's progress**:
+**Thoughts**:
+**Link to work**:
+
+
+## Day 84/100 August 28th 2022:
+** Today's progress**:
+**Thoughts**:
+**Link to work**:
+
+
+## Day 83/100 August 27th 2022:
+** Today's progress**:
+**Thoughts**:
+**Link to work**:
+
+## Day 82/100 August 26th 2022:
+** Today's progress**:
+**Thoughts**:
+**Link to work**:
+
+
 ## Day 81/100 August 25th 2022:
 **Today's Progess**: I am finally finishing the cash register. 
+
+
 **Thoughts**: The logic behind the code itself was easy but. I forgot one important programming principles: divide and conquer. I was trying to solve the problem having the bigger picture in mind. The best solution was to break every single problem in small tasks and solve them one after the other. I swear I did watch other people's work.
 
 **Link to work**:
