@@ -3,29 +3,30 @@
 
 
 ## Day 85/100 August 29th 2022:
-** Today's progress**:
+**Today's progress**:
 **Thoughts**:
 **Link to work**:
 
 
 ## Day 84/100 August 28th 2022:
-** Today's progress**:
+**Today's progress**:
 **Thoughts**:
 **Link to work**:
 
 
 ## Day 83/100 August 27th 2022:
-** Today's progress**:
+**Today's progress**:
 **Thoughts**:
 **Link to work**:
 
 ## Day 82/100 August 26th 2022:
-** Today's progress**:
+**Today's progress**:
 **Thoughts**:
 **Link to work**:
 
 
 ## Day 81/100 August 25th 2022:
+
 **Today's Progess**: I am finally finishing the cash register. 
 
 
