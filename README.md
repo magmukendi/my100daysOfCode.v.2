@@ -18,6 +18,16 @@ And We will use those two functions with the react redux connect() method to con
 - In order for us to use the function mapDispatchToProps(). We use the argument dispatch.
 It returns an object that map the different actions creator to use in the component. We returns a function.
 
+Now that I know how to use the mapStateToProps() and the mapDispatchToProps(). I can connect them to the component using the React redux connect() method as following.
+
+
+```
+const connect = ReactRedux.connect
+const ConnectedComponenet = connect(mapStateToProps, mapDispatchToProps)(Presentational)
+```
+
+
+When we make a component that do not interact with any redux, we called them Presentational component and the component that connect with the redux is called Container component.
 **Thoughts**:
 **Link**:
 
@@ -28,24 +38,25 @@ It returns an object that map the different actions creator to use in the compon
 
 We usually just spread the array so that to habe a new cloned array.
 
-TASK 1:
-Adding an element in a array without modifying the array. 
+**TASK 1: Adding an element in a array without modifying the array**.
+. 
 We just  spread the array, add a comma and add the new element. 
 
 *e.g ```[...state, action.todo]```*
 In this example the ***state*** is  the array we clone and ***action.todo*** is the new element we add to the array. 
 
-TASK 2: Removing an item from an array in a state.
+**TASK 2: Removing an item from an array in a state**.
+
 In order forus to be able to remvoe an element from an immutable state. we can use the slice. 
 Let's say we have the following array [0,1,2,3,4,5,6,7] and we would like to get rid of 5 ( which has and index of 5). We will do the following.
 
-```[...array.slice(0,5),...array.slice(5+1,array.length)]```
+```[...array.slice(0,5),...array.slice(5 + 1,array.length)]```
 
 The code above will first return the array from 0 to 4. Notice that when we use the slice() method the first argument is the starting index and the last argumen is the last argument is where the slice should end ( excluding the index). And the second element after the comma is what we will add to the spread operator. We will start the slice one index after the element we would like to remove (index + 1) and we would add till the end of the array (array.length).
 
 
+**TASK 3: Working with state as object**. 
 
-**TASK 3: Working with state as object.** 
 When working with object we can use Object.assign(). We use it to copy the property of object ( in the second argument) into an empty object in the first argument. The 3rd argument is the object that need to will overwrite any property contained in obj2.
 
 
@@ -53,7 +64,8 @@ e.g  ```const newObject = Object.assign({}, obj1, obj2, obj3 )```. This will cre
 
 
 
-**TASK 4: React and Redux**
+**TASK 4: React and Redux**.
+
 **Thoughts**: I just finished the module about redux. Now I will have to combine React and Redux.
 
 
