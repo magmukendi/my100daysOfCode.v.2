@@ -23,15 +23,15 @@ The code above will first return the array from 0 to 4. Notice that when we use 
 
 
 
-*** TASK 3: orking with state as object *** 
+***TASK 3: orking with state as object*** 
 When working with object we can use Object.assign(). We use it to copy the property of object ( in the second argument) into an empty object in the first argument. The 3rd argument is the object that need to will overwrite any property contained in obj2.
 
 
-e.g  ``` const newObject = Object.assign({}, obj1, obj2, obj3 ) ```. This will create a new oobject with the property in obj1, obj2, and obj3
+e.g  ```const newObject = Object.assign({}, obj1, obj2, obj3 )```. This will create a new oobject with the property in obj1, obj2, and obj3
 
 
 
-*** TASK 4: React and Redux ***
+***TASK 4: React and Redux***
 **Thoughts**: I just finished the module about redux. Now I will have to combine React and Redux.
 
 **Link to work**:
