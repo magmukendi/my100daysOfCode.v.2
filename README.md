@@ -44,7 +44,8 @@ In order for us to combine the react and redux we use the provider.
 
 It looks like this:
 
-```<Provider store={store}>
+```
+<Provider store={store}>
 <App/>
 <Provider/>
 ```
