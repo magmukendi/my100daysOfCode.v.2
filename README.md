@@ -7,9 +7,14 @@
 
 We usually just spread the array so that to habe a new cloned array.
 
-Adding an element in a array without modifying the array. We just  spread the array, add a comma and add the new element. 
+TASK 1:
+Adding an element in a array without modifying the array. 
+We just  spread the array, add a comma and add the new element. 
 
-~~e.g [...state, action.todo]~~
+*e.g [...state, action.todo]*
+In this example the ***state*** is  the array we clone and ***action.todo*** is the new element we add to the array. 
+
+TASK 2: Removing an item from an array in a state
 **Thoughts**:
 **Link to work**:
 
