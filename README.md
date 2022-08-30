@@ -46,7 +46,7 @@ It looks like this:
 
 ```
 <Provider store={store}>
-<App/>
+  <App/>
 <Provider/>
 ```
 **Link to work**:
