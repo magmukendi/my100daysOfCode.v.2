@@ -1,6 +1,25 @@
 # my100daysOfCode
 <h4> In this repository I document my journey for the 100 days of Coding challenge</h4>
 
+
+## Day 87/100 August 31st 2022
+
+
+**Today's Progress**:
+
+TASK 1: Mapping the state to props
+
+access specific state and action by using the function mapStateToProps() and mapDispatchToProps().
+
+We will use those two functions with the react redux connect method to connect them to the components.
+
+
+- In order for us to use the function mapStateToProps(). We use the argument state and return an object with property messages mapped to the state.
+- In order for us to use the function mapDispatchToProps(). We use the argument dispatch.
+It returns an object that map the different actions creator to use in the component. We returns a function.
+
+**Thoughts**:
+**Link**:
 ## Day 86/100: August 30th 2022:
 
 **Today's progress**: I am still working on Redux. I started enforcing immutability of state in redux. 
@@ -49,6 +68,8 @@ It looks like this:
   <App/>
 <Provider/>
 ```
+
+**Thoughts**: It was super nice to try to build something using redux and react at the same time.
 **Link to work**:
 
 ## Day 85/100 August 29th 2022:
