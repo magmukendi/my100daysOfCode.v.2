@@ -51,6 +51,8 @@ I was able to combine react challenges from free code camp and Scrimba, and I fi
 
 ### **Link**:
 
+- [Random Quote Machine](https://codepen.io/legrandmag/pen/xxWvBvp)
+
 
 ## Day 86/100 August 30th 2022:
 
