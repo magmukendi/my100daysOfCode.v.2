@@ -22,7 +22,7 @@ It returns an object that map the different actions creator to use in the compon
 **Link**:
 
 
-## Day 86/100: August 30th 2022:
+## Day 86/100 August 30th 2022:
 
 **Today's progress**: I am still working on Redux. I started enforcing immutability of state in redux. 
 
