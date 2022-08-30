@@ -5,9 +5,9 @@
 ## Day 87/100 August 31st 2022
 
 
-**Today's Progress**:
+### **Today's Progress**:
 
-TASK 1: Mapping the state to props
+**TASK 1: Mapping the state and action creators to props**
 
 We will access specific states and actions by using the function mapStateToProps() and mapDispatchToProps().
 
@@ -15,8 +15,14 @@ And We will use those two functions with the react redux connect() method to con
 
 
 - In order for us to use the function mapStateToProps(). We use the argument state and return an object with property messages mapped to the state.
+
+
 - In order for us to use the function mapDispatchToProps(). We use the argument dispatch.
 It returns an object that map the different actions creator to use in the component. We returns a function.
+
+
+
+**Task 2: Connecting state and dispatch to component**
 
 Now that I know how to use the mapStateToProps() and the mapDispatchToProps(). I can connect them to the component using the React redux connect() method as following.
 
@@ -26,10 +32,24 @@ const connect = ReactRedux.connect
 const ConnectedComponenet = connect(mapStateToProps, mapDispatchToProps)(Presentational)
 ```
 
-
 When we make a component that do not interact with any redux, we called them Presentational component and the component that connect with the redux is called Container component.
-**Thoughts**:
-**Link**:
+
+
+**Task 3: Extract local state into Redux**
+I was able to extract the local state and add it into my Redux
+
+#### Final Projects
+
+
+1. Random Quote Machine
+
+
+
+### **Thoughts**: 
+
+I was able to combine react challenges from free code camp and Scrimba, and I finally finished all the challenges. I just need to work on the final projects and build usefull stuff.
+
+### **Link**:
 
 
 ## Day 86/100 August 30th 2022:
