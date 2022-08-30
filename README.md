@@ -1,11 +1,29 @@
 # my100daysOfCode
 <h4> In this repository I document my journey for the 100 days of Coding challenge</h4>
 
+##Day 86/100: August 30th 2022:
 
-## Day 85/100 August 29th 2022:
-**Today's progress**: 
+**Today's progress**: I am still working on Redux. I started enforcing immutability of state in redux. 
+
+We usually just spread the array so that to habe a new cloned array.
+
+Adding an element in a array without modifying the array. We just  spread the array, add a comma and add the new element. 
+
+~~e.g [...state, action.todo]~~
 **Thoughts**:
 **Link to work**:
+
+## Day 85/100 August 29th 2022:
+
+**Today's progress**: 
+TASK 1: Sending action data to the store
+
+TASK 2: Using middleware to handle asynchronous actions
+ Redux has middle that helps us handle asynchronous endpoints. Redux Thunk middleware.
+ 
+TASK 3: Making a counter with Redux
+**Thoughts**: I still need to review the redux thunk middleware. It is a little more complex. I did not fully comprehend the use of store.dispatch() so I will come back to that later for more practice.
+**Link to work**: Still no link available. I will share link to real projects when I finish this module.
 
 
 ## Day 84/100 August 28th 2022:
@@ -31,15 +49,9 @@ auth: authenticationReducer,
 notes: notesReducer
 })
 
-TASK 4: Sending action data to the store
 
-TASK 5: Using middleware to handle asynchronous actions
- Redux has middle that helps us handle asynchronous endpoints. Redux Thunk middleware.
-
-
-TASK 6: Making a counter with Redux
-**Thoughts**:
-**Link to work**:
+**Thoughts**: I am just getting used to redux and I can see how very practical it is for bigger and more complex project. I still did not fully explore its applicability but I am looking forward to start using it in my React projects.
+**Link to work**: There isn't any relevant link for this module. I will share the link
 
 
 ## Day 83/100 August 27th 2022:
