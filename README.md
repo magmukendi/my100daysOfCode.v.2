@@ -9,9 +9,9 @@
 
 TASK 1: Mapping the state to props
 
-access specific state and action by using the function mapStateToProps() and mapDispatchToProps().
+We will access specific states and actions by using the function mapStateToProps() and mapDispatchToProps().
 
-We will use those two functions with the react redux connect method to connect them to the components.
+And We will use those two functions with the react redux connect() method to connect the state and the  to the components.
 
 
 - In order for us to use the function mapStateToProps(). We use the argument state and return an object with property messages mapped to the state.
@@ -20,6 +20,8 @@ It returns an object that map the different actions creator to use in the compon
 
 **Thoughts**:
 **Link**:
+
+
 ## Day 86/100: August 30th 2022:
 
 **Today's progress**: I am still working on Redux. I started enforcing immutability of state in redux. 
@@ -38,6 +40,7 @@ In order forus to be able to remvoe an element from an immutable state. we can u
 Let's say we have the following array [0,1,2,3,4,5,6,7] and we would like to get rid of 5 ( which has and index of 5). We will do the following.
 
 ```[...array.slice(0,5),...array.slice(5+1,array.length)]```
+
 The code above will first return the array from 0 to 4. Notice that when we use the slice() method the first argument is the starting index and the last argumen is the last argument is where the slice should end ( excluding the index). And the second element after the comma is what we will add to the spread operator. We will start the slice one index after the element we would like to remove (index + 1) and we would add till the end of the array (array.length).
 
 
