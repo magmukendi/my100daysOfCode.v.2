@@ -1,7 +1,12 @@
 # my100daysOfCode
 <h4> In this repository I document my journey for the 100 days of Coding challenge</h4>
 
+## Day 88/100 September 1st 2022:
+### **Today's Progress**:
 
+I already passed 11 out 12 tests for the random Quote Machine.
+## **Thoughts**
+## **Link**
 ## Day 87/100 August 31st 2022
 
 https://www.yapp.co.kr/project/20th/betree
@@ -50,6 +55,7 @@ I was able to extract the local state and add it into my Redux
 I was able to combine react challenges from free code camp and Scrimba, and I finally finished all the challenges. I just need to work on the final projects and build usefull stuff.
 
 ### **Link**:
+[Random Quote Machiine](https://codepen.io/legrandmag/pen/xxWvBvp)
 
 
 ## Day 86/100 August 30th 2022:
