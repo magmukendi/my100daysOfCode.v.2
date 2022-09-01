@@ -4,7 +4,7 @@
 
 ## Day 87/100 August 31st 2022
 
-
+https://www.yapp.co.kr/project/20th/betree
 ### **Today's Progress**:
 
 **TASK 1: Mapping the state and action creators to props**
