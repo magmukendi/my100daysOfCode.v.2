@@ -5,8 +5,11 @@
 ### **Today's Progress**:
 
 I already passed 11 out 12 tests for the random Quote Machine.
+Finally finished the Random quote machine.
+
 ## **Thoughts**
-## **Link**
+## **Link**: 
+[Random Quote Machiine](https://codepen.io/legrandmag/pen/xxWvBvp)
 ## Day 87/100 August 31st 2022
 
 https://www.yapp.co.kr/project/20th/betree
