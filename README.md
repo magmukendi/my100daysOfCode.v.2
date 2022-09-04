@@ -1,7 +1,17 @@
 # my100daysOfCode
 <h4> In this repository I document my journey for the 100 days of Coding challenge</h4>
 
-## Day 89/100 September 2dn 2022:
+## Day 90/100 September 3rd 2022:
+### **Today's Progress**: No coding, resting
+
+## Day 89/100 September 2nd 2022:
+### **Today's Progress**:
+https://www.tecmint.com/open-source-api-gateways-and-management-tools/
+I already passed 11 out 12 tests for the random Quote Machine.
+Finally finished the Random quote machine.
+
+### **Thoughts**: GIven that we are planning to have a beta test sometime this week, I will be working the app UI until today.
+
 
 ## Day 88/100 September 1st 2022:
 ### **Today's Progress**:
