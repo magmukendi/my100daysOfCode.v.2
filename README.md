@@ -1,6 +1,20 @@
 # my100daysOfCode
 <h4> In this repository I document my journey for the 100 days of Coding challenge</h4>
 
+
+## Day 91/100 September 3rd 2022:
+### **Today's Progress**:
+- I worked on a a facebook post scraper for WEPO.
+- Updated the drum machine by adding the drum functionalities
+
+### **Thoughts**: I spend almost the whole day figuring out why Selenium was not finding HTML elemet. But Finally figured it out. Trial and error, ALWAYS, haha. Also it was such a nice experience to finally get to my drum playing using the web application I am working on. Even though it is not fully functional, it still is working like something. Now I am not focusing on using self-made song, I am relying on KHSMR's sound pack.
+
+
+### **Link**:
+ - [facebook scraper project](https://github.com/LeGrandMAG/pythonWEPO)
+ - [Drum machine](https://codepen.io/legrandmag/pen/Rwybqey)
+
+
 ## Day 90/100 September 3rd 2022:
 ### **Today's Progress**: No coding, resting
 
