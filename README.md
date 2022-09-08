@@ -1,6 +1,53 @@
 # my100daysOfCode
 <h4> In this repository I document my journey for the 100 days of Coding challenge</h4>
 
+## Day 100/100 September 11th 2022:
+### **Today's Progress**:
+### **Thoughts**: 
+
+## Day 99/100 September 10th 2022:
+### **Today's Progress**:
+### **Thoughts**: 
+
+## Day 98/100 September 9th 2022:
+### **Today's Progress**:
+### **Thoughts**: 
+
+## Day 97/100 September 8th 2022:
+
+## Day 96/100 September 7th 2022:
+### **Today's Progress**:
+### **Thoughts**: 
+
+### **Today's Progress**:
+
+Today I started learning spacy. It is a library for Natural Language Processing on python. From my reading yesterday, I came to know that using spacy we can be able to perfom name entities recognition, put in simple term, we might be able to recognize the model of sell phone someone wrote about in their facebook publication. Learning in day one but Let's go. 
+
+
+Today I crawled iver 6000 posts from Facebook groups.
+
+### **Thoughts**: Not sure where all this is leading us but I am sure that there is light at the end of the tunnel.
+
+## Day 95/100 September 6th 2022:
+### **Today's Progress**:
+
+Today, I had the goal to start working on how to process all the data that we have collected for WEPO "data analysis". I read some article about how to proceed so that we are able to collect information from unstructured data and organize them in insighful data that will serve us in the future.
+
+I read a paper from a Shanghai Academic about how to process phone model even though it is not written in a very conventional way.
+I also was able to find two API that will help us organize and list up all the mobile device people use in Congo.
+
+Additionally, I reworked on the Drum machine. But this time I  was trying to impliment the metronome.
+
+### **Thoughts**: 
+I remember in the beginning I was complaining that we do not have enough information for us to better understand the market. But now I am a little overwhemed because we have lot of data but we still do not know how to clean the up and organize them.
+
+## Day 94/100 September 5th 2022:
+### **Today's Progress**:
+### **Thoughts**: 
+
+## Day 92/100 September 4th 2022:
+### **Today's Progress**:
+### **Thoughts**: 
 
 ## Day 91/100 September 3rd 2022:
 ### **Today's Progress**:
