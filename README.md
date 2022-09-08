@@ -1,21 +1,25 @@
 # my100daysOfCode
 <h4> In this repository I document my journey for the 100 days of Coding challenge</h4>
 
-## Day 100/100 September 11th 2022:
+## Day 100/100 September 12th 2022:
+### **Today's Progress**:
+### **Thoughts**:
+
+## Day 99/100 September 11th 2022:
 ### **Today's Progress**:
 ### **Thoughts**: 
 
-## Day 99/100 September 10th 2022:
+## Day 98/100 September 10th 2022:
 ### **Today's Progress**:
 ### **Thoughts**: 
 
-## Day 98/100 September 9th 2022:
+## Day 97/100 September 9th 2022:
 ### **Today's Progress**:
 ### **Thoughts**: 
 
-## Day 97/100 September 8th 2022:
+## Day 96/100 September 8th 2022:
 
-## Day 96/100 September 7th 2022:
+## Day 95/100 September 7th 2022:
 ### **Today's Progress**:
 ### **Thoughts**: 
 
@@ -28,7 +32,7 @@ Today I crawled iver 6000 posts from Facebook groups.
 
 ### **Thoughts**: Not sure where all this is leading us but I am sure that there is light at the end of the tunnel.
 
-## Day 95/100 September 6th 2022:
+## Day 94/100 September 6th 2022:
 ### **Today's Progress**:
 
 Today, I had the goal to start working on how to process all the data that we have collected for WEPO "data analysis". I read some article about how to proceed so that we are able to collect information from unstructured data and organize them in insighful data that will serve us in the future.
@@ -41,7 +45,7 @@ Additionally, I reworked on the Drum machine. But this time I  was trying to imp
 ### **Thoughts**: 
 I remember in the beginning I was complaining that we do not have enough information for us to better understand the market. But now I am a little overwhemed because we have lot of data but we still do not know how to clean the up and organize them.
 
-## Day 94/100 September 5th 2022:
+## Day 93/100 September 5th 2022:
 ### **Today's Progress**:
 ### **Thoughts**: 
 
@@ -254,7 +258,7 @@ notes: notesReducer
 - [Cash Register](https://github.com/LeGrandMAG/freeCodeCamp/blob/master/Intermediate%20Algorithm%20Scripting/finalProjects/cashRegister.js)
 
 
-## Day 780/100 August 24th 2022:
+## Day 80/100 August 24th 2022:
 **Today's Progess**: Today was such a busy day. I barely touched my PC to code.
 **Thoughts**: Nothing much to say here.
 **Link to work**:
@@ -375,13 +379,13 @@ When working with grid it is always important to mention the out of range bound.
 
 
 
-##Day 61/100 August 5th 2022:
+## Day 61/100 August 5th 2022:
 
 **Today's Progress**: 
 **Thoughts**: 
 **Link to work**:
 
-##Day 60/100 August 4th 2022:
+## Day 60/100 August 4th 2022:
 
 **Today's Progress** :  
 **Thoughts**: 
@@ -644,8 +648,11 @@ coding interview
 
 ## Day 35/100 July 10th 2022
 Today I did not code I spent most of the time reading, meeting and resting.
-## Day 34/100 JUly 9th 2022
-Today I worked on react project to creat a meme generator
+
+
+## Day 34/100 July 9th 2022
+Today I worked on react project to creat a meme generator.
+
 ## Day 33/100 July 8th 2022
 
 Today I was working on a react projects. I learned conditional rendering using react. Event listener and side effect.
@@ -700,3 +707,113 @@ Partial application...DID NOT REALLY GRASP THIS CONCEPT
 - And I also worked on some coding challenge and watched some React coding interview for beginner coding with Clement the founder of AlgoExpert.
 - I also learn how to construct an object, how to make chikd object inherit from it parent object and how to use prototype to make more objects. And finally how to build prototype of unrelated objects using mixin.
 
+## Day 26/100 July 1st 2022:
+### **Today's Progress**:
+### **Thoughts**: 
+
+## Day 25/100 June 30th 2022:
+### **Today's Progress**:
+### **Thoughts**: 
+
+## Day 24/100 June 29th 2022:
+### **Today's Progress**:
+### **Thoughts**: 
+
+## Day 23/100 June 28th 2022:
+### **Today's Progress**:
+### **Thoughts**: 
+
+## Day 22/100 June 27th 2022:
+### **Today's Progress**:
+### **Thoughts**: 
+
+## Day 21/100 June 26th 2022:
+### **Today's Progress**:
+### **Thoughts**: 
+
+## Day 20/100 June 25th 2022:
+### **Today's Progress**:
+### **Thoughts**: 
+
+## Day 19/100 June 24th 2022:
+### **Today's Progress**:
+### **Thoughts**: 
+
+## Day 18/100 June 23rd 2022:
+### **Today's Progress**:
+### **Thoughts**: 
+
+## Day 17/100 June 22nd 2022:
+### **Today's Progress**:
+### **Thoughts**: 
+
+## Day 16/100 June 21st 2022:
+### **Today's Progress**:
+### **Thoughts**: 
+
+## Day 15/100 June 20th 2022:
+### **Today's Progress**:
+### **Thoughts**: 
+
+## Day 14/100 June 19th 2022:
+### **Today's Progress**:
+### **Thoughts**: 
+
+## Day 13/100 June 18th 2022:
+### **Today's Progress**:
+### **Thoughts**: 
+
+## Day 12/100 June 17th 2022:
+### **Today's Progress**:
+### **Thoughts**:
+
+
+## Day 11/100 June 16th 2022:
+### **Today's Progress**:
+### **Thoughts**:
+
+
+
+## Day 10/100 June 15th 2022:
+### **Today's Progress**:
+### **Thoughts**:
+
+
+## Day 09/100 June 14th 2022:
+### **Today's Progress**:
+### **Thoughts**:
+
+
+## Day 08/100 June 13th 2022:
+### **Today's Progress**:
+### **Thoughts**:
+
+
+## Day 07/100 June 12th 2022:
+### **Today's Progress**:
+### **Thoughts**:
+
+
+## Day 06/100 June 11th 2022:
+### **Today's Progress**:
+### **Thoughts**:
+
+## Day 05/100 June 10th 2022:
+### **Today's Progress**:
+### **Thoughts**:
+
+## Day 04/100 June 9th 2022:
+### **Today's Progress**:
+### **Thoughts**:
+
+## Day 03/100 June 8th 2022:
+### **Today's Progress**:
+### **Thoughts**:
+
+## Day 02/100 June 7th 2022:
+### **Today's Progress**:
+### **Thoughts**:
+
+## Day 01/100 June 6th 2022:
+### **Today's Progress**: 
+Today is my first day of the #100DaysOfCodeChallenge. This is the 2nd time I am challenging myself to this exercice, I hope this road will be filled with a lot of learning and great experiences from my code, and looking at the work of other people around the world. LET"S GO WE CAN DO THIS.
