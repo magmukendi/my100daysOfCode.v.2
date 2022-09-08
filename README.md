@@ -18,6 +18,11 @@
 ### **Thoughts**: 
 
 ## Day 96/100 September 8th 2022:
+### **Today's Progress**:
+
+I am on my say 2 of learning spacy. And I came accross that ```ent_iob```. I still did not figure out what  it stands for.
+### **Thoughts**:
+
 
 ## Day 95/100 September 7th 2022:
 ### **Today's Progress**:
