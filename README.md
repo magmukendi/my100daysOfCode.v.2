@@ -46,11 +46,17 @@ Additionally, I reworked on the Drum machine. But this time I  was trying to imp
 I remember in the beginning I was complaining that we do not have enough information for us to better understand the market. But now I am a little overwhemed because we have lot of data but we still do not know how to clean the up and organize them.
 
 ## Day 93/100 September 5th 2022:
-### **Today's Progress**:
+### **Today's Progress**: I had a look at Digital Garden a term that many dev use to illustrate the way they manage organize personal knowledge online. I came accross this thanks to 당근마켓 github repository. Since then I have been reading through.
+
 ### **Thoughts**: 
 
 ## Day 92/100 September 4th 2022:
-### **Today's Progress**:
+### **Today's Progress**: Today I did some reading & analyze of the platform and web application built by other junior developpers in Korea. 
+And I came acrosss this project called  YAPP. They are encouraging many innovative solutions such as [Betree](https://www.yapp.co.kr/project/20th/betree).
+
+I also read through many usefull API that can be used into personal projects. 
+https://www.tecmint.com/open-source-api-gateways-and-management-tools/
+
 ### **Thoughts**: 
 
 ## Day 91/100 September 3rd 2022:
@@ -82,16 +88,17 @@ Finally finished the Random quote machine.
 
 ## Day 88/100 September 1st 2022:
 ### **Today's Progress**:
-https://www.tecmint.com/open-source-api-gateways-and-management-tools/
+
 I already passed 11 out 12 tests for the random Quote Machine.
 Finally finished the Random quote machine.
 
 ## **Thoughts**
 ## **Link**: 
-[Random Quote Machiine](https://codepen.io/legrandmag/pen/xxWvBvp)
+[Random Quote Machine](https://codepen.io/legrandmag/pen/xxWvBvp)
+
+
 ## Day 87/100 August 31st 2022
 
-https://www.yapp.co.kr/project/20th/betree
 ### **Today's Progress**:
 
 **TASK 1: Mapping the state and action creators to props**
@@ -137,7 +144,7 @@ I was able to extract the local state and add it into my Redux
 I was able to combine react challenges from free code camp and Scrimba, and I finally finished all the challenges. I just need to work on the final projects and build usefull stuff.
 
 ### **Link**:
-[Random Quote Machiine](https://codepen.io/legrandmag/pen/xxWvBvp)
+[Random Quote Machine](https://codepen.io/legrandmag/pen/xxWvBvp)
 
 
 ## Day 86/100 August 30th 2022:
