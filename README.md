@@ -21,6 +21,9 @@
 ### **Today's Progress**:
 
 I am on my say 2 of learning spacy. And I came accross that ```ent_iob```. I still did not figure out what  it stands for.
+
+https://levelup.gitconnected.com/10-github-repos-that-can-be-used-for-self-improvement-7a926bd62ba5
+https://dev.to/nehasoni__/top-10-useful-github-repos-for-self-development-25c0
 ### **Thoughts**:
 
 
