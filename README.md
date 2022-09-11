@@ -7,14 +7,23 @@
 
 ## Day 99/100 September 11th 2022:
 ### **Today's Progress**:
+
+Today I worked on the user Stories for WEPO's mobile application.
+
 ### **Thoughts**: 
 
 ## Day 98/100 September 10th 2022:
 ### **Today's Progress**:
+
+Worked on the WEPO homepage.
+
 ### **Thoughts**: 
 
 ## Day 97/100 September 9th 2022:
 ### **Today's Progress**:
+
+
+Today I learned some GSAP to implement into WEPO's homepage.
 ### **Thoughts**: 
 
 ## Day 96/100 September 8th 2022:
