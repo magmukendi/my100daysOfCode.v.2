@@ -3,8 +3,13 @@
 
 ## Day 100/100 September 12th 2022:
 ### **Today's Progress**:
+
+To I am continuing my learning of GSAP, specifically scroll trigger, smooth scroll and reveal effect with locomotive scroll.
+I also learned the difference between ```.js``` and ```.jsx``` file in React project. The difference between the two is that jsx file is javascript + html. Enven though .js. But for us to have a better understanding of the code, It is good practice to use ```.jsx``` when our code is about JSX.
+
 ### **Thoughts**:
 
+I will be actively learning GSAP in WEPO's Homepage project, together with react.
 ## Day 99/100 September 11th 2022:
 ### **Today's Progress**:
 
