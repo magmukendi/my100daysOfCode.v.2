@@ -52,7 +52,9 @@ Today I started learning spacy. It is a library for Natural Language Processing 
 
 Today I crawled iver 6000 posts from Facebook groups.
 
-### **Thoughts**: Not sure where all this is leading us but I am sure that there is light at the end of the tunnel.
+### **Thoughts**: 
+
+Not sure where all this is leading us but I am sure that there is light at the end of the tunnel.
 
 ## Day 94/100 September 6th 2022:
 ### **Today's Progress**:
@@ -68,12 +70,15 @@ Additionally, I reworked on the Drum machine. But this time I  was trying to imp
 I remember in the beginning I was complaining that we do not have enough information for us to better understand the market. But now I am a little overwhemed because we have lot of data but we still do not know how to clean the up and organize them.
 
 ## Day 93/100 September 5th 2022:
-### **Today's Progress**: I had a look at Digital Garden a term that many dev use to illustrate the way they manage organize personal knowledge online. I came accross this thanks to 당근마켓 github repository. Since then I have been reading through.
+### **Today's Progress**: 
+I had a look at Digital Garden a term that many dev use to illustrate the way they manage organize personal knowledge online. I came accross this thanks to 당근마켓 github repository. Since then I have been reading through.
 
 ### **Thoughts**: 
 
 ## Day 92/100 September 4th 2022:
-### **Today's Progress**: Today I did some reading & analyze of the platform and web application built by other junior developpers in Korea. 
+### **Today's Progress**: 
+
+Today I did some reading & analyze of the platform and web application built by other junior developpers in Korea. 
 And I came acrosss this project called  YAPP. They are encouraging many innovative solutions such as [Betree](https://www.yapp.co.kr/project/20th/betree).
 
 I also read through many usefull API that can be used into personal projects. 
