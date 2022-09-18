@@ -845,9 +845,14 @@ Partial application...DID NOT REALLY GRASP THIS CONCEPT
 ### **Thoughts**:
 
 ## Day 02/100 June 7th 2022:
-### **Today's Progress**:
-### **Thoughts**:
+### **Today's Progress**: 
+Today I solved some Kata from code wars. I am still kyu 8 but the Kata I solved today is from kyu 6. It was about write a function that substract differences.
 
+The function should take two arrays as argument and remove all the elements in array B from array A. If An element comes twice in array A, it should remove it twice as well.
+
+### **Thoughts**: This code was super simple. The think that helped me solve this problem is the pseudocode.
+##Link: 
+[Array Difference](https://github.com/LeGrandMAG/codewars/blob/main/ArrayDiff)
 ## Day 01/100 June 6th 2022:
 ### **Today's Progress**: 
 Today is my first day of the #100DaysOfCodeChallenge. This is the 2nd time I am challenging myself to this exercice, I hope this road will be filled with a lot of learning and great experiences from my code, and looking at the work of other people around the world. LET"S GO WE CAN DO THIS.
