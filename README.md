@@ -842,7 +842,14 @@ Partial application...DID NOT REALLY GRASP THIS CONCEPT
 
 ## Day 03/100 June 8th 2022:
 ### **Today's Progress**:
+Today I solved another Kata on codewars. The Kata was for Kyu 7 but I did it at Kyu 7. The kata was about me checking a string is a pangram. Pangram are sentences that content all the alphabet letters
+Quite an interesting task.
 ### **Thoughts**:
+My algorithm was messy but I was about to reach the final solution. I will be refactoring it in the future.
+
+#### **Link**:
+
+[Detect Pangram](https://github.com/LeGrandMAG/codewars/blob/main/detectPangram.py)
 
 ## Day 02/100 June 7th 2022:
 ### **Today's Progress**: 
