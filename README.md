@@ -836,7 +836,16 @@ Partial application...DID NOT REALLY GRASP THIS CONCEPT
 
 ## Day 05/100 June 10th 2022:
 ### **Today's Progress**:
+
+Today I worked on the number of people left in the bus problem. The is a bus taking tour in a city. I have to find how many people are left in the bus at the last station. It was a challenge for kyu 7. A little easy.
+
 ### **Thoughts**:
+
+Little by little I am starting to feel like a programmer.
+
+
+### ** Link **: 
+[Number of People left in the bus](https://github.com/LeGrandMAG/codewars/blob/main/numberOfPeopleInTheBus.py)
 
 ## Day 04/100 June 9th 2022:
 ### **Today's Progress**:
