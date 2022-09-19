@@ -17,6 +17,8 @@ Today I worked on the user Stories for WEPO's mobile application.
 
 ### **Thoughts**: 
 
+Nothing much to share, lol.
+
 ## Day 98/100 September 10th 2022:
 ### **Today's Progress**:
 
