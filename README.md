@@ -832,8 +832,17 @@ Partial application...DID NOT REALLY GRASP THIS CONCEPT
 
 ## Day 06/100 June 11th 2022:
 ### **Today's Progress**:
+
+Today I worked on a algorithm that finds the middle character of a string. If the string length is even it return the two middle characters. If the string is odd it return the middle character.
+
 ### **Thoughts**:
 
+
+I will have to be honest, this one was quite easy.
+
+## ** Link ** :
+
+[Get the middle character](https://github.com/LeGrandMAG/codewars/blob/main/GetMiddleChar.py)
 ## Day 05/100 June 10th 2022:
 ### **Today's Progress**:
 
