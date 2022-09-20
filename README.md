@@ -868,16 +868,27 @@ Little by little I am starting to feel like a programmer.
 
 ## Day 04/100 June 9th 2022:
 ### **Today's Progress**:
+
+Today I was working on some problem solving skills from HackerRank. The first assignemnt I had was to find the ratio of positive, negative and zero number existing in an array of number. And convert their ratios into a decimal number up to 6 rank after the decimal.
 ### **Thoughts**:
 
+I don't know why put so far so good. Those problem solving skills are manageable.
+
+### ** Link **:
+
+[FizzBuzz](https://github.com/LeGrandMAG/hackerrankChallenges/blob/main/FizzBuzz.py)
+[Plus Minus](https://github.com/LeGrandMAG/hackerrankChallenges/blob/main/PlusMinus.py)
+
 ## Day 03/100 June 8th 2022:
+
 ### **Today's Progress**:
 Today I solved another Kata on codewars. The Kata was for Kyu 6 but I did it as a Kyu 7. The kata was about me checking a string is a pangram. Pangram are sentences that content all the alphabet letters
 Quite an interesting task.
+
 ### **Thoughts**:
 My algorithm was messy but I was about to reach the final solution. I will be refactoring it in the future.
 
-#### **Link**:
+### **Link**:
 
 [Detect Pangram](https://github.com/LeGrandMAG/codewars/blob/main/detectPangram.py)
 
