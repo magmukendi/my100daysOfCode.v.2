@@ -827,8 +827,18 @@ Partial application...DID NOT REALLY GRASP THIS CONCEPT
 
 ## Day 07/100 June 12th 2022:
 ### **Today's Progress**:
+
+I worked on another kyu 6 kata. This Kata was about finding if the sum of the element on the left of i is equal to the sum of the elements on the right side of element i.  If the the sum on the right was equal  to the sum on the left, I should return the index of that element. In case there was no equal at all I should return -1.
+
+
 ### **Thoughts**:
 
+I am still kyu 6 but I am kind of amazed that I can pass those test so easily, without much worries.
+
+
+### ** Link **:
+
+[Equal Sides Of Array](https://github.com/LeGrandMAG/codewars/blob/main/equalSidesOfArray.py)
 
 ## Day 06/100 June 11th 2022:
 ### **Today's Progress**:
