@@ -817,13 +817,17 @@ Partial application...DID NOT REALLY GRASP THIS CONCEPT
 
 ## Day 09/100 June 14th 2022:
 ### **Today's Progress**:
+Started working on a tooltip like on medium. The tooltip is just a way to improve the user experience 
 ### **Thoughts**:
 
 
 ## Day 08/100 June 13th 2022:
 ### **Today's Progress**:
-### **Thoughts**:
 
+Today I am working on an educative intermediate Javascript course for building frontend components. I already worked on a dynamically generated menu, now I am working on autocomplete search component. I started by learning how to know if I selected a text from a page or not. For that I had to take a look at the selection API (```document.getSelection()```) from Javascript.
+
+### **Thoughts**:
+Very practically course. And it is good that they explain the use cases of each decision they made for building the component in such a way. I love it :)
 
 ## Day 07/100 June 12th 2022:
 ### **Today's Progress**:
@@ -854,6 +858,7 @@ I will have to be honest, this one was quite easy.
 
 [Get the middle character](https://github.com/LeGrandMAG/codewars/blob/main/GetMiddleChar.py)
 ## Day 05/100 June 10th 2022:
+
 ### **Today's Progress**:
 
 Today I worked on the number of people left in the bus problem. The is a bus taking tour in a city. I have to find how many people are left in the bus at the last station. It was a challenge for kyu 7. A little easy.
