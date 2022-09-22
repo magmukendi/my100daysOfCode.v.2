@@ -826,8 +826,16 @@ Started working on a tooltip like on medium. The tooltip is just a way to improv
 
 Today I am working on an educative intermediate Javascript course for building frontend components. I already worked on a dynamically generated menu, now I am working on autocomplete search component. I started by learning how to know if I selected a text from a page or not. For that I had to take a look at the selection API (```document.getSelection()```) from Javascript.
 
+
+Also learned about the getBoundingClientRect(). To help us  find the middle point of a text.
+
 ### **Thoughts**:
 Very practically course. And it is good that they explain the use cases of each decision they made for building the component in such a way. I love it :)
+
+
+### **Link**:
+[Tooltip](https://github.com/LeGrandMAG/frontEndComponents/blob/main/tooltip.js)
+
 
 ## Day 07/100 June 12th 2022:
 ### **Today's Progress**:
