@@ -811,8 +811,15 @@ Partial application...DID NOT REALLY GRASP THIS CONCEPT
 
 
 ## Day 10/100 June 15th 2022:
-### **Today's Progress**:
+### **Today's Progress**: I started working on some challenges from hacker Rank.  This I working on interview kits preparation related to problem solving skills.
+
 ### **Thoughts**:
+I was able to finish all the questions for day 1 in less than 40 minutes. Just to show how easy it was. 
+
+## **Link**:
+[Time Conversion](https://github.com/LeGrandMAG/hackerrankChallenges/blob/main/timeConversion.py)
+[Lonely integer](https://github.com/LeGrandMAG/hackerrankChallenges/blob/main/lonelyInteger.py)
+[Min Max](https://github.com/LeGrandMAG/hackerrankChallenges/blob/main/minAndMaxSum.py)
 
 
 ## Day 09/100 June 14th 2022:
