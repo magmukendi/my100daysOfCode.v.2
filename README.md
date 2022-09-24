@@ -178,7 +178,9 @@ I was able to combine react challenges from free code camp and Scrimba, and I fi
 
 ## Day 86/100 August 30th 2022:
 
-**Today's progress**: I am still working on Redux. I started enforcing immutability of state in redux. 
+**Today's progress**: 
+
+I am still working on Redux. I started enforcing immutability of state in redux. 
 
 We usually just spread the array so that to habe a new cloned array.
 
@@ -210,7 +212,9 @@ e.g  ```const newObject = Object.assign({}, obj1, obj2, obj3 )```. This will cre
 
 **TASK 4: React and Redux**.
 
-**Thoughts**: I just finished the module about redux. Now I will have to combine React and Redux.
+**Thoughts**: 
+
+I just finished the module about redux. Now I will have to combine React and Redux.
 
 
 How to use react-redux.
@@ -228,8 +232,9 @@ It looks like this:
 <Provider/>
 ```
 
-**Thoughts**: It was super nice to try to build something using redux and react at the same time.
-**Link to work**:
+**Thoughts**: 
+It was super nice to try to build something using redux and react at the same time.
+
 
 ## Day 85/100 August 29th 2022:
 
@@ -268,8 +273,10 @@ notes: notesReducer
 })
 
 
-**Thoughts**: I am just getting used to redux and I can see how very practical it is for bigger and more complex project. I still did not fully explore its applicability but I am looking forward to start using it in my React projects.
-**Link to work**: There isn't any relevant link for this module. I will share the link
+**Thoughts**: 
+I am just getting used to redux and I can see how very practical it is for bigger and more complex project. I still did not fully explore its applicability but I am looking forward to start using it in my React projects.
+**Link to work**: 
+There isn't any relevant link for this module. I will share the link
 
 
 ## Day 83/100 August 27th 2022:
@@ -285,25 +292,33 @@ notes: notesReducer
 
 ## Day 81/100 August 25th 2022:
 
-**Today's Progess**: I am finally finishing the cash register. 
+**Today's Progess**: 
+I am finally finishing the cash register. 
 
 
-**Thoughts**: The logic behind the code itself was easy but. I forgot one important programming principles: divide and conquer. I was trying to solve the problem having the bigger picture in mind. The best solution was to break every single problem in small tasks and solve them one after the other. I swear I did watch other people's work.
+**Thoughts**: 
+The logic behind the code itself was easy but. I forgot one important programming principles: divide and conquer. I was trying to solve the problem having the bigger picture in mind. The best solution was to break every single problem in small tasks and solve them one after the other. I swear I did watch other people's work.
 
 **Link to work**:
 - [Cash Register](https://github.com/LeGrandMAG/freeCodeCamp/blob/master/Intermediate%20Algorithm%20Scripting/finalProjects/cashRegister.js)
 
 
 ## Day 80/100 August 24th 2022:
-**Today's Progess**: Today was such a busy day. I barely touched my PC to code.
-**Thoughts**: Nothing much to say here.
+**Today's Progess**: 
+Today was such a busy day. I barely touched my PC to code.
+**Thoughts**: 
+
+Nothing much to say here.
 **Link to work**:
 - [Cash Register](https://github.com/LeGrandMAG/freeCodeCamp/blob/master/Intermediate%20Algorithm%20Scripting/finalProjects/cashRegister.js)
 
 
 ## Day 79/100 August 23rd 2022:
-**Today's Progess**: I am still working on the cash Register. I did not finish it yet :(. I cannot manage to pass the last code test. The test asks me to return unsufficient found if the change in the drawer is less than the change due. But this is super confusing.
-**Thoughts**: NOthing much to say here.
+**Today's Progess**: 
+I am still working on the cash Register. I did not finish it yet :(. I cannot manage to pass the last code test. The test asks me to return unsufficient found if the change in the drawer is less than the change due. But this is super confusing.
+**Thoughts**: 
+
+NOthing much to say here.
 **Link to work**:
 - [Cash Register](https://github.com/LeGrandMAG/freeCodeCamp/blob/master/Intermediate%20Algorithm%20Scripting/finalProjects/cashRegister.js)
 
@@ -324,12 +339,14 @@ I finished working on the Caesars Cipher also known as the shift cipher. It is a
 - [Telephone Number Validator](https://github.com/LeGrandMAG/freeCodeCamp/blob/master/Intermediate%20Algorithm%20Scripting/finalProjects/telephoneNumberValidator.js)
 
 ## Day 77/100: August 21st 2022:
-**Today's Progress**: I worked on the Map Debris, a program that computes thev orbital Period using Kepler's Third Law.
+**Today's Progress**: 
+I worked on the Map Debris, a program that computes thev orbital Period using Kepler's Third Law.
 
 I also finished working on the Palindrome Checker, it is one of the 4 projects to finish Javascript Algorithms and Data Structures Projects. This project check for work that are identical forward and backward after removing all the alpha-numeric characters such as comma space and symbols and converting everything into lowercase.
 
 
-**Thoughts**: I finally finished all 21 challenges about Intermediate Algorithm Scripting in the Javascript Algorithms and Data Structures from free Code Camp. I only have to complete the 4 projects left and I will get my certificate.  
+**Thoughts**: 
+I finally finished all 21 challenges about Intermediate Algorithm Scripting in the Javascript Algorithms and Data Structures from free Code Camp. I only have to complete the 4 projects left and I will get my certificate.  
 
 **Link to my work**: 
 - [Map the Debris](https://github.com/LeGrandMAG/freeCodeCamp/blob/master/Intermediate%20Algorithm%20Scripting/mapTheDebris.js)
@@ -343,34 +360,43 @@ I also finished working on the Palindrome Checker, it is one of the 4 projects t
  - I also worked on WEPO App's frontend design. I started working on the product page. Which will contain the different post of the application. I was having some issues with with adding a sticky effect CSS's position stucky effect for the text field when people search for item on the posting page. Also if someone try to click on loop icon, instead of being redirected to the search screen, he would stay at the product list screen and to the query from there. Also, when someone does a query but there is not result for the query, He should see a component telling him that there is no search results.
 
 
-**Thoughts**: I think this program might be very useful when I am building form or I am trying to register people in a Data base.
+**Thoughts**: 
+I think this program might be very useful when I am building form or I am trying to register people in a Data base.
 
-**Link to work**: [Make a Person](https://github.com/LeGrandMAG/freeCodeCamp/blob/master/Intermediate%20Algorithm%20Scripting/makeAPerson.js)
+**Link to work**: 
+[Make a Person](https://github.com/LeGrandMAG/freeCodeCamp/blob/master/Intermediate%20Algorithm%20Scripting/makeAPerson.js)
 
 ## Day 75/100 August 19th 2022:
-**Today's Progress**: I worked on Arguments Optional. I had to build a function that takes two arguments and return the sum. In case only one argument was given, it will return a function that take another argument  And return the sum of both arguments. If we input an argument who type is different from number, the code should return the sum of both the arguments.
+**Today's Progress**: 
+I worked on Arguments Optional. I had to build a function that takes two arguments and return the sum. In case only one argument was given, it will return a function that take another argument  And return the sum of both arguments. If we input an argument who type is different from number, the code should return the sum of both the arguments.
 **Thoughts**:
-**Link to work**: The work can be found [Arguments Optional](https://github.com/LeGrandMAG/freeCodeCamp/blob/master/Intermediate%20Algorithm%20Scripting/makeAPerson.js)
+**Link to work**: 
+The work can be found [Arguments Optional](https://github.com/LeGrandMAG/freeCodeCamp/blob/master/Intermediate%20Algorithm%20Scripting/makeAPerson.js)
 
 ## Day 74/100: August 18th 2022: 
 
-**Today's Progess**: I worked on Code Treee challenges.
+**Today's Progess**: 
+I worked on Code Treee challenges.
 **Thoughts**:
 **Link to work**
 
 ## Day 73/100 August 17th 2022:
-**Today's Progess**: I worked on Code Treee challenges.
+**Today's Progess**: 
+I worked on Code Treee challenges.
 **Thoughts**:
 **Link to work**
 
 ## Day 72/100 August 16th 2022:
 
-**Today's Progress**: I practiced some intermediate algorithm in Javascript. I worked on a program that check if all the  a property is truthy in all the objects of the list. Instead of using the traditional Boolean(), i designed a function that check for all that and return true or false value.
+**Today's Progress**: 
+I practiced some intermediate algorithm in Javascript. I worked on a program that check if all the  a property is truthy in all the objects of the list. Instead of using the traditional Boolean(), i designed a function that check for all that and return true or false value.
 
 
-**Thoughts**: I think the project doesn't really have any use cases but I think it was super important to understand the logic behind that.
+**Thoughts**: 
+I think the project doesn't really have any use cases but I think it was super important to understand the logic behind that.
 
-**Link to work**: The work can be found here:[Intermediate Algorithm Scripting](https://github.com/LeGrandMAG/freeCodeCamp/tree/master/Intermediate%20Algorithm%20Scripting)
+**Link to work**: 
+The work can be found here:[Intermediate Algorithm Scripting](https://github.com/LeGrandMAG/freeCodeCamp/tree/master/Intermediate%20Algorithm%20Scripting)
 
 
 ## Day 71/100 August 15th 2022:
@@ -460,7 +486,8 @@ Worked on the codetree questions. Reviewed input and output in python,.
 
 ## Day 55/100: July 30 2022
 
-**Today's Progress**: I worked on codetree problem for novice low. I think I will be done very soon.This level focus on printing. 출력. IN order for me to print something on python I will need to use one of those three ways:
+**Today's Progress**: 
+I worked on codetree problem for novice low. I think I will be done very soon.This level focus on printing. 출력. IN order for me to print something on python I will need to use one of those three ways:
 
 ```
 print("")
@@ -808,7 +835,7 @@ Partial application...DID NOT REALLY GRASP THIS CONCEPT
 
 ### **Today's Progress**:
 
-This is the second day since I started working on the Hacker Ranks coding challenges.
+This is the second day since I started working on the Hacker Ranks coding challenges. I should say that those challenges are easy.
 
 ### **Thoughts**:
 ## **Link**:
