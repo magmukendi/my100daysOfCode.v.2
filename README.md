@@ -828,7 +828,17 @@ Partial application...DID NOT REALLY GRASP THIS CONCEPT
 
 ## Day 12/100 June 17th 2022:
 ### **Today's Progress**:
+
+Tiday I am working on an algorithm that will be sorting the frequency of occurence of element in that array. This algorithm will be super helping as we are planning to have an algorithm that will be checking for the frequency price at which a product a product is sold in the WEPO's mobile application.
+
 ### **Thoughts**:
+
+I decided to work on each question within 30 minutes max. I managed to solve to hacker rank challenge within 19 minutes.
+
+
+## **Link**:
+
+[Counting Sort](https://github.com/LeGrandMAG/hackerrankChallenges/blob/main/countingSort.py)
 
 
 ## Day 11/100 June 16th 2022:
