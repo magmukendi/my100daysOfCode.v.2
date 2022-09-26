@@ -819,8 +819,14 @@ Partial application...DID NOT REALLY GRASP THIS CONCEPT
 ### **Thoughts**: 
 
 ## Day 14/100 June 19th 2022:
+
+
 ### **Today's Progress**:
+I just watched "React Conf 2018". About how to use React Hooks and, thanks to Danm I got to better understand how they works. I also spend some hour watching React interviews.
+
 ### **Thoughts**: 
+
+It was kind of refreshins to see that, I am not that bad when Dan could not center a Div.
 
 ## Day 13/100 June 18th 2022:
 ### **Today's Progress**:
@@ -829,11 +835,12 @@ Partial application...DID NOT REALLY GRASP THIS CONCEPT
 ## Day 12/100 June 17th 2022:
 ### **Today's Progress**:
 
-Tiday I am working on an algorithm that will be sorting the frequency of occurence of element in that array. This algorithm will be super helping as we are planning to have an algorithm that will be checking for the frequency price at which a product a product is sold in the WEPO's mobile application.
+Today, I am working on an algorithm that will be sorting the frequency of occurence of element in that array. This algorithm will be super helping as we are planning to have an algorithm that will be checking for the frequency price at which a product a product is sold in the WEPO's mobile application.
+Also I tried to do the test for the day 2 of the coding challenge but I failed, lol. I had to solve the problem in 25 minutes but I could not. I will study more and try again tomorrow.
 
 ### **Thoughts**:
 
-I decided to work on each question within 30 minutes max. I managed to solve to hacker rank challenge within 19 minutes.
+I decided to work on each question within 30 minutes max. I managed to solve to hacker rank challenge within 19 minutes. But got knocked out but the matrix challenge. I had to reverse the matrix to find the maximu sum of a submatrix. But I spent so much time into thinking.
 
 
 ## **Link**:
