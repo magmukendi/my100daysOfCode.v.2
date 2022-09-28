@@ -812,11 +812,19 @@ Partial application...DID NOT REALLY GRASP THIS CONCEPT
 
 ## Day 16/100 June 21st 2022:
 ### **Today's Progress**:
+
+ 
 ### **Thoughts**: 
 
 ## Day 15/100 June 20th 2022:
+
 ### **Today's Progress**:
+
+Today I am starting a Agile Project Management and Scrum training from OpenClassrooms. Normally the lecture was a 6 hours lecture, but spent about 4 hours studying.
+
 ### **Thoughts**: 
+
+I did some quizzes but I could not pass them. I will take them again tomorrow, to see if I can get that certificate, Wish me luck :)
 
 ## Day 14/100 June 19th 2022:
 
