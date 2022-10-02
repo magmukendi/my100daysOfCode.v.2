@@ -813,8 +813,12 @@ Partial application...DID NOT REALLY GRASP THIS CONCEPT
 ## Day 16/100 June 21st 2022:
 ### **Today's Progress**:
 
+I solved some Kata from codewars. 
+
  
 ### **Thoughts**: 
+
+Today I did two Katas in less than 15 minutes. Looks like improvement to me. I just finished solving the narcisstic Kata. I've never thought about that type of Kata before. Very interesting but useless in real life. HAHAHHAHAH!
 
 ## Day 15/100 June 20th 2022:
 
