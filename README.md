@@ -808,8 +808,14 @@ Partial application...DID NOT REALLY GRASP THIS CONCEPT
 
 ## Day 17/100 June 22nd 2022:
 ### **Today's Progress**:
+
+I am almost done with the Kyu 7 (75 %).
+
 ### **Thoughts**: 
 
+I worked on the are they the same problem.
+## **Link**:
+[Are the the same]([https://github.com/LeGrandMAG/codewars/blob/main/narcisstic.py](https://github.com/LeGrandMAG/codewars/blob/main/same.py))
 ## Day 16/100 June 21st 2022:
 ### **Today's Progress**:
 
@@ -820,6 +826,8 @@ I solved some Kata from codewars.
 
 Today I did two Katas in less than 15 minutes. Looks like improvement to me. I just finished solving the narcisstic Kata. I've never thought about that type of Kata before. Very interesting but useless in real life. HAHAHHAHAH!
 
+### **Link** :
+[Narcissstic](https://github.com/LeGrandMAG/codewars/blob/main/narcisstic.py)
 ## Day 15/100 June 20th 2022:
 
 ### **Today's Progress**:
