@@ -838,8 +838,9 @@ It was kind of refreshins to see that, I am not that bad when Dan could not cent
 
 ## Day 13/100 June 18th 2022:
 ### **Today's Progress**:
+Today I watched some React frontend mock interview on Youtube. It was very fun to watch the interview and try to solve the problems along with the other coder on youtube.
 ### **Thoughts**: 
-
+I think I am under estimating myself a lot.
 ## Day 12/100 June 17th 2022:
 ### **Today's Progress**:
 
