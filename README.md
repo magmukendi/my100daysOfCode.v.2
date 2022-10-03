@@ -827,7 +827,7 @@ I am almost done with the Kyu 7 (75 %).
 
 I worked on the are they the same problem.
 ## **Link**:
-[Are the the same]([https://github.com/LeGrandMAG/codewars/blob/main/narcisstic.py](https://github.com/LeGrandMAG/codewars/blob/main/same.py))
+[Are the the same](https://github.com/LeGrandMAG/codewars/blob/main/same.py)
 
 
 
