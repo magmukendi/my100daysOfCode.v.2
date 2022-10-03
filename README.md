@@ -803,8 +803,20 @@ Partial application...DID NOT REALLY GRASP THIS CONCEPT
 ### **Thoughts**: 
 
 ## Day 18/100 June 23rd 2022:
+
+
 ### **Today's Progress**:
+
+Today I worked on a very interesting Kata. It is the first time for me to use a library in a code interview question. I am using the string library in python. The kata was about finding the highest scoring word in a sentence with two or more words separated by a space. It was such a fun game. I very much enjoyed.
+
+
 ### **Thoughts**: 
+
+This project is one of those project that really looks like a real life project.
+
+### **Link**:
+
+[Highest scoring words](https://github.com/LeGrandMAG/codewars/blob/main/highestScoringWord.py)
 
 ## Day 17/100 June 22nd 2022:
 ### **Today's Progress**:
@@ -816,6 +828,9 @@ I am almost done with the Kyu 7 (75 %).
 I worked on the are they the same problem.
 ## **Link**:
 [Are the the same]([https://github.com/LeGrandMAG/codewars/blob/main/narcisstic.py](https://github.com/LeGrandMAG/codewars/blob/main/same.py))
+
+
+
 ## Day 16/100 June 21st 2022:
 ### **Today's Progress**:
 
@@ -853,6 +868,8 @@ It was kind of refreshins to see that, I am not that bad when Dan could not cent
 Today I watched some React frontend mock interview on Youtube. It was very fun to watch the interview and try to solve the problems along with the other coder on youtube.
 ### **Thoughts**: 
 I think I am under estimating myself a lot.
+
+
 ## Day 12/100 June 17th 2022:
 ### **Today's Progress**:
 
