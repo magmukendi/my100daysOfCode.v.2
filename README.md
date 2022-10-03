@@ -986,6 +986,7 @@ I don't know why put so far so good. Those problem solving skills are manageable
 ### ** Link **:
 
 [FizzBuzz](https://github.com/LeGrandMAG/hackerrankChallenges/blob/main/FizzBuzz.py)
+
 [Plus Minus](https://github.com/LeGrandMAG/hackerrankChallenges/blob/main/PlusMinus.py)
 
 ## Day 03/100 June 8th 2022:
