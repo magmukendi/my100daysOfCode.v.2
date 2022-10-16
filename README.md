@@ -800,7 +800,16 @@ Partial application...DID NOT REALLY GRASP THIS CONCEPT
 
 ## Day 19/100 June 24th 2022:
 ### **Today's Progress**:
+
+Today, I worked on a Zigzag sequence function. The program will take an array, sort it and convert it into a zigzag sequence. 
+
 ### **Thoughts**: 
+
+The most challenging things about this was to edit the codem yes there was already a code written. I had to edit it wit less than 3 characters. It took me many tries, but I was able to do it :)
+
+### **Link**:
+
+[Zigzag sequence](https://github.com/LeGrandMAG/hackerrankChallenges/commit/7dacb32531d84fc3c1350b5bb8ca4fad81f2d5d5)
 
 ## Day 18/100 June 23rd 2022:
 
