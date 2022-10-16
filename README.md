@@ -25,15 +25,17 @@ Nothing much to share, lol.
 Worked on the WEPO homepage.
 
 ### **Thoughts**: 
+Nothing much to share, lol.
 
 ## Day 97/100 September 9th 2022:
 ### **Today's Progress**:
-
-
 Today I learned some GSAP to implement into WEPO's homepage.
+
 ### **Thoughts**: 
+Nothing much to share, lol.
 
 ## Day 96/100 September 8th 2022:
+
 ### **Today's Progress**:
 
 I am on my say 2 of learning spacy. And I came accross that ```ent_iob```. I still did not figure out what  it stands for.
@@ -44,8 +46,11 @@ https://dev.to/nehasoni__/top-10-useful-github-repos-for-self-development-25c0
 
 
 ## Day 95/100 September 7th 2022:
+
 ### **Today's Progress**:
+
 ### **Thoughts**: 
+Nothing much to share, lol.
 
 ### **Today's Progress**:
 
@@ -76,6 +81,7 @@ I remember in the beginning I was complaining that we do not have enough informa
 I had a look at Digital Garden a term that many dev use to illustrate the way they manage organize personal knowledge online. I came accross this thanks to 당근마켓 github repository. Since then I have been reading through.
 
 ### **Thoughts**: 
+Nothing much to share, lol.
 
 ## Day 92/100 September 4th 2022:
 ### **Today's Progress**: 
@@ -87,6 +93,7 @@ I also read through many usefull API that can be used into personal projects.
 https://www.tecmint.com/open-source-api-gateways-and-management-tools/
 
 ### **Thoughts**: 
+Nothing much to share, lol.
 
 ## Day 91/100 September 3rd 2022:
 ### **Today's Progress**:
@@ -112,7 +119,9 @@ https://www.tecmint.com/open-source-api-gateways-and-management-tools/
 I already passed 11 out 12 tests for the random Quote Machine.
 Finally finished the Random quote machine.
 
-### **Thoughts**: GIven that we are planning to have a beta test sometime this week, I will be working the app UI until today.
+### **Thoughts**: 
+
+Given that we are planning to have a beta test sometime this week, I will be working the app UI until today.
 
 
 ## Day 88/100 September 1st 2022:
@@ -245,8 +254,13 @@ TASK 2: Using middleware to handle asynchronous actions
  Redux has middle that helps us handle asynchronous endpoints. Redux Thunk middleware.
  
 TASK 3: Making a counter with Redux
-**Thoughts**: I still need to review the redux thunk middleware. It is a little more complex. I did not fully comprehend the use of store.dispatch() so I will come back to that later for more practice.
-**Link to work**: Still no link available. I will share link to real projects when I finish this module.
+**Thoughts**: 
+
+I still need to review the redux thunk middleware. It is a little more complex. I did not fully comprehend the use of store.dispatch() so I will come back to that later for more practice.
+
+**Link to work**: 
+
+Still no link available. I will share link to real projects when I finish this module.
 
 
 ## Day 84/100 August 28th 2022:
@@ -275,14 +289,19 @@ notes: notesReducer
 
 **Thoughts**: 
 I am just getting used to redux and I can see how very practical it is for bigger and more complex project. I still did not fully explore its applicability but I am looking forward to start using it in my React projects.
+
 **Link to work**: 
 There isn't any relevant link for this module. I will share the link
 
 
 ## Day 83/100 August 27th 2022:
 **Today's progress**:
+
 **Thoughts**:
+Nothing much to share, lol.
+
 **Link to work**:
+NO link
 
 ## Day 82/100 August 26th 2022:
 **Today's progress**:
@@ -304,8 +323,10 @@ The logic behind the code itself was easy but. I forgot one important programmin
 
 
 ## Day 80/100 August 24th 2022:
+
 **Today's Progess**: 
 Today was such a busy day. I barely touched my PC to code.
+
 **Thoughts**: 
 
 Nothing much to say here.
@@ -331,7 +352,9 @@ I finished working on the Roman Numeral Converter. A program that convert any gi
 
 I finished working on the Caesars Cipher also known as the shift cipher. It is a program that shift the value of letters 
 
-**Thoughts**: This project was quite easy to achieve. I just needed to find the right algorithm to apply. I just noticed that it is easier for me to work with algorithm that include strings and characters rather then surface or spaces as it is the case in many of code tree problems.
+**Thoughts**: 
+
+This project was quite easy to achieve. I just needed to find the right algorithm to apply. I just noticed that it is easier for me to work with algorithm that include strings and characters rather then surface or spaces as it is the case in many of code tree problems.
 
 **Link to work**: 
 - [Roman Numeral Converter](https://github.com/LeGrandMAG/freeCodeCamp/blob/master/Intermediate%20Algorithm%20Scripting/finalProjects/romanNumeralConverter.js)
@@ -369,7 +392,10 @@ I think this program might be very useful when I am building form or I am trying
 ## Day 75/100 August 19th 2022:
 **Today's Progress**: 
 I worked on Arguments Optional. I had to build a function that takes two arguments and return the sum. In case only one argument was given, it will return a function that take another argument  And return the sum of both arguments. If we input an argument who type is different from number, the code should return the sum of both the arguments.
+
 **Thoughts**:
+Nothing much to share, lol.
+
 **Link to work**: 
 The work can be found [Arguments Optional](https://github.com/LeGrandMAG/freeCodeCamp/blob/master/Intermediate%20Algorithm%20Scripting/makeAPerson.js)
 
@@ -377,13 +403,19 @@ The work can be found [Arguments Optional](https://github.com/LeGrandMAG/freeCod
 
 **Today's Progess**: 
 I worked on Code Treee challenges.
+
 **Thoughts**:
+
+Nothing much to share, lol.
 **Link to work**
 
 ## Day 73/100 August 17th 2022:
+
 **Today's Progess**: 
 I worked on Code Treee challenges.
 **Thoughts**:
+
+Nothing much to share, lol.
 **Link to work**
 
 ## Day 72/100 August 16th 2022:
@@ -408,12 +440,21 @@ The work can be found here:[Intermediate Algorithm Scripting](https://github.com
 **Redux action creator**: In order for use the define a redux action creator. we just need to define a function that return an action,
 
 **Redux dispatch method** is used to dispatch actions to the reduc store.
-**Thoughts**: I wasn't really sure about why I should using redux, but after understanding that it is pretty hard to manage state on their own, redux becomes a very usefull tool.
-**Link to work**: [Free Code Camp: FrontEnd Development Libraries (redux)](https://www.freecodecamp.org/learn/front-end-development-libraries/#redux)
+
+**Thoughts**: 
+
+I wasn't really sure about why I should using redux, but after understanding that it is pretty hard to manage state on their own, redux becomes a very usefull tool.
+**Link to work**: 
+
+[Free Code Camp: FrontEnd Development Libraries (redux)](https://www.freecodecamp.org/learn/front-end-development-libraries/#redux)
 
 ## Day 70/100 August 14th 2022:
 **Today's Progess**: 
+
+Nothing much to share, lol.
 **Thoughts**:
+
+Nothing much to share, lol.
 **Link to work**:
 
 
@@ -432,11 +473,14 @@ The work can be found here:[Intermediate Algorithm Scripting](https://github.com
 ## Day 63/100 August 7th 2022:
 
 ## Day 62/100: August 6th 2022:
-**Today's Progress**: I am currently reviewing dx/dy technique. How to move a point in a grid. I also worked on how to change the direction of the point in a plan. 
+**Today's Progress**: 
+I am currently reviewing dx/dy technique. How to move a point in a grid. I also worked on how to change the direction of the point in a plan. 
 When working with grid it is always important to mention the out of range bound. So that you can can be protected from being out of range.
 
 
 **Thoughts**: 
+
+Nothing much to share, lol.
 **Link to work**:
 
 
@@ -444,13 +488,18 @@ When working with grid it is always important to mention the out of range bound.
 ## Day 61/100 August 5th 2022:
 
 **Today's Progress**: 
+
 **Thoughts**: 
+
+Nothing much to share, lol.
 **Link to work**:
 
 ## Day 60/100 August 4th 2022:
 
 **Today's Progress** :  
 **Thoughts**: 
+
+Nothing much to share, lol.
 **Link to work**:
 
 ## Day 59/100 August 3rd 2022:
@@ -470,8 +519,11 @@ arr = [
 
 ## Day 58/100 August 2nd 2022:
 
-**Today's Progress**: Today I worked on on codetree's assignments. 1차원배열, 2차원 배열, and 문자열 전부
-**Thoughts**: After working on those assignments I feeel more confident about my python coding. It is true that practice makes perfect.
+**Today's Progress**: 
+
+Today I worked on on codetree's assignments. 1차원배열, 2차원 배열, and 문자열 전부
+**Thoughts**: 
+After working on those assignments I feeel more confident about my python coding. It is true that practice makes perfect.
 **Link to work**:
 
 ## Day 57/100: August 1st 2022:
@@ -500,9 +552,13 @@ or print({}.format{})
 
 ## Day 54/100 July 29 2022:
 
-**Today's Progress**: Today I worked on cs50 project again. I finished the project 1 (wiki). Hopefully I will get a reply very soon. This project taught how to use filtering. and playing with the views in django.
+**Today's Progress**: 
+
+Today I worked on cs50 project again. I finished the project 1 (wiki). Hopefully I will get a reply very soon. This project taught how to use filtering. and playing with the views in django.
 Built a piano notes playing app.
-**Thoughts**:  I is very hard to code and to programming and one of the best thing we can do is to find a supportive community.
+**Thoughts**:  
+
+I is very hard to code and to programming and one of the best thing we can do is to find a supportive community.
 **Link to work**: The project 1 can be found [here](https://github.com/me50/LeGrandMAG/tree/web50/projects/2020/x/wiki)
 
 
