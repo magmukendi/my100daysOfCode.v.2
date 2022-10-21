@@ -460,6 +460,40 @@ Nothing much to share, lol.
 
 ## Day 69/100 August 13th 2022:
 
+**Today's Progess**: 
+
+Today, I learn about Github Actions. How to build work flow, how to decide the trigerring event, the condition, and how to schedule a workflow. Thee was one term that was quite interesting to me. They called it **cron**. When you are using the webhook event called schedule. You should also specify the the cron.
+
+Let's say you name the following workflow.
+
+```
+name: Deploy this every sunday
+on:
+ schedule:
+  - cron: '30 5m17 * * *'
+```
+
+The ```cron``` notation has 5 parameters : 
+- minutes (0  - 59 )
+- hour (0 - 23 )
+- day of the month (1 - 31 )
+- month (1 - 12 or JAN-DEC)
+- day of the week (0 - 6 or SUN-SAT )
+
+
+For example if we want our workflow to run every 15 minutes. we would do ```15 * * * * ```
+
+Additionally I can also use [crontab guru](https://crontab.guru/) to generate my own cron syntax and confirm what it will run. 
+
+
+**Thoughts**:
+
+From now on, I prefer to read the documentation that watching tutorials. They are like rich quick scame. When you see other people doing it, you are amazed and get excited but you do not really learn how to build things on your own. That is why, I would like to switch to books or documentions. Event though it takes longer, but you are sure that you are learning on your own.
+
+**Link to work**:
+
+I will not update any link here. Most of the projects I worked on are personal.
+
 ## Day 68/100 August 12th 2022:
 
 ## Day 67/100 August 11th 2022:
