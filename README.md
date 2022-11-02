@@ -886,7 +886,14 @@ Partial application...DID NOT REALLY GRASP THIS CONCEPT
 
 ## Day 20/100 June 25th 2022:
 ### **Today's Progress**:
+
+Today, thanks to my Github Student Pack, I came accross wondeful interview ressource called Interview Cake. The platform was very explanatory. 
+I am working on a URL shortener project.
+ I had to work on the logic of it first and then proceed with the rest.
+ 
 ### **Thoughts**: 
+
+Reading is underated. People say they enjoy watching Youtube videos, but to me, reading provide a much much better environment for learning.
 
 ## Day 19/100 June 24th 2022:
 ### **Today's Progress**:
