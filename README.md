@@ -877,12 +877,30 @@ Partial application...DID NOT REALLY GRASP THIS CONCEPT
 ### **Thoughts**: 
 
 ## Day 22/100 June 27th 2022:
+
 ### **Today's Progress**:
+
+
+Today I started working on puppeteer. It is a javascript for webscraping in Chromium. 
+
+I just got my hands it. Let's see where it leads us.
 ### **Thoughts**: 
 
 ## Day 21/100 June 26th 2022:
 ### **Today's Progress**:
+
+Today I worked on algorithmic question from Interview Cake.
+
+The questions was about finding a way to manage meeting schedule in a team. If we have a time intervals for each meeting by sub team we need to come up with a meeting interval that might work for most of the members. 
+
 ### **Thoughts**: 
+
+This took me some time to figure out but hey Here we are, DONE.
+
+###  **Link**:
+
+
+The source code can be found at [meeting schedule](https://github.com/LeGrandMAG/Data-Structures-and-Algorithm/blob/master/Python/Algorithm/meetingTime.py)
 
 ## Day 20/100 June 25th 2022:
 ### **Today's Progress**:
