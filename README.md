@@ -508,11 +508,17 @@ Regarding the sort: I learned about the main sorting algorithm used on cs50, sel
 
 ## Day 67/100 August 11th 2022:
 
-***Today's Progess**:
+**Today's Progess**:
 
 Now I am startinig the plurality pset. It is the first problem in pset3. Not sure how low it is going to take me but I hope I can spend less time on it.
 
 ## Day 66/100 August 10th 2022
+
+
+**Today's Progess**:
+I am learning some new css tricks. TIL that there is a container selection
+And has:
+
 
 ## Day 65/100 August 9th 2022:
 
