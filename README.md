@@ -496,7 +496,21 @@ I will not update any link here. Most of the projects I worked on are personal.
 
 ## Day 68/100 August 12th 2022:
 
+**Today's Progress**: 
+I worked on week 3 of cs50. I finished the lab 3. I was just overthinking it while the only thing to do was to go through the problem, read it and try to find a solution.
+
+** Thoughts **:
+
+Now I am very confident about my understanding of the different searching algorithms aswell as sorting algorithms. For searching we have the linear search and the binary search. The linear search is very simple but the only issue is that we have to go through every single element which takes a lot of time and space. The binary search is super fast and help us save some memory but the only drawback is that it can only be used on a already sorted array.
+
+Regarding the sort: I learned about the main sorting algorithm used on cs50, selection, bubble and merge sort. The selection sort. Start from the first element and check if the element is the low elelment and so on. On the other end the bubble sort try to bring the biggest number at the end of the array. The merge sort on the other end try divide the array in subarrays until there is only one element. And sort each side of the sub array, then try to merge the sub arrays in a sorted order.
+
+
 ## Day 67/100 August 11th 2022:
+
+***Today's Progess**:
+
+Now I am startinig the plurality pset. It is the first problem in pset3. Not sure how low it is going to take me but I hope I can spend less time on it.
 
 ## Day 66/100 August 10th 2022
 
